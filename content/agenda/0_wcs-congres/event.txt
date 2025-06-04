@@ -1,0 +1,69 @@
+Title: WCS Congres: 'Wonde zoekt antwoord'
+
+----
+
+Eventheadline: 
+
+----
+
+Eventtype: WCS Congres
+
+----
+
+Eventfrom: 2023-10-24
+
+----
+
+Eventto: 
+
+----
+
+Eventlocation: CC Hasselt
+
+----
+
+Eventlink: 
+
+----
+
+Eventgooglemaps: https://maps.google.com/maps?q=cc%20hasselt&t=&z=13&ie=UTF8&iwloc=&output=embed
+
+----
+
+Eventtoggle: false
+
+----
+
+Eventpricemember: 140
+
+----
+
+Eventpricestudent: 150
+
+----
+
+Eventprice: 160
+
+----
+
+Text: [{"content":{"text":"<p>Op dinsdag 24 oktober 2023 vindt ons tweejaarlijks congres plaats. Dit jaar luidt de titel 'Wonde zoekt antwoord'. Hieronder kan je de congresfolder terugvinden. Via <a href=\"https://www.wcs-belgie.be/agenda/wcs-congres/folder-wcs-congres-24102023.pdf\" target=\"_blank\" rel=\"noreferrer\">deze link</a> kan je hem downloaden.</p><p>Inschrijving is enkel mogelijk via ons winkelmandje (via Bankcontact of je Bankapp, niet via creditcard). Nadien ontvang je een bevestigingsmail die ook kan dienen als factuur.</p><p>Leden genieten een mooie korting. Ben je lid? Vergeet dan niet op je abonnee-nummer te vermelden bij je inschrijving. Wil je graag WCS-Lid worden? <a href=\"https://www.wcs-belgie.be/wondzorgtijdschrift\" rel=\"noreferrer\">Contacteer</a> ons dan vóór aankoop van je ticket.</p><p>Wil je zeker zijn van je ticket? Schrijf dan nu in via de knoppen onderaan deze pagina.</p><p>Tot dan, in Hasselt!</p>"},"id":"2488bf45-ee18-4f22-be8c-1f192e79bc71","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["file://QAYxL8s8Mfy9myG3"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"true"},"id":"230ed6f8-2b6f-4d8a-a0f4-ffb5bc304622","isHidden":false,"type":"image"},{"content":{"location":"kirby","image":["file://lHaCjRNA0EJ3wBqF"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"true"},"id":"6ba15b94-be23-4b25-82c0-782e3dad35ad","isHidden":false,"type":"image"}]
+
+----
+
+Marketingtitle: 
+
+----
+
+Marketingdescription: 
+
+----
+
+Marketingimage: 
+
+----
+
+Eventattributes: 
+
+----
+
+Uuid: ivUAv7gcwRToEsOF

@@ -1,0 +1,109 @@
+title: Event
+
+num: '{{ page.fromEvent.toDate("Ymd") }}'
+
+icon: calendar
+
+status:
+  draft:
+    label: Draft
+  listed:
+    label: Public
+
+tabs:
+
+  content:
+    label: Content
+    columns:
+
+      - width: 2/3
+        sections:
+          event:
+            type: fields
+            fields:
+              eventHeadline:
+                width: 1/2
+                label: Headline
+                type: text
+                help: Leave empty to use the page title.
+              eventType:
+                width: 1/2
+                label: Type
+                type: text
+                required: true
+              eventFrom:
+                label: Start
+                type: date
+                width: 1/2
+                default: today
+                required: true
+              eventTo:
+                label: End
+                type: date
+                width: 1/2
+              eventLocation:
+                width: 1/2
+                label: Location
+                type: text
+                required: true
+              eventLink:
+                width: 1/2
+                label: Link
+                type: url
+              eventGoogleMaps:
+                width: 1/2
+                label: Google Maps
+                type: url
+              eventToggle:
+                width: 1/2
+                label: Ticket sale
+                type: toggle
+                text:
+                  - "no"
+                  - "yes"
+              eventPriceMember:
+                width: 1/3
+                when:
+                  eventToggle: yes
+                label: Price member (excl. VAT)
+                type: number
+                step: .01
+                min: 1
+                before: €
+              eventPriceStudent:
+                width: 1/3
+                when:
+                  eventToggle: yes
+                label: Price student (excl. VAT)
+                type: number
+                step: .01
+                min: 1
+                before: €
+              eventPrice:
+                width: 1/3
+                when:
+                  eventToggle: yes
+                label: Price (excl. VAT)
+                type: number
+                step: .01
+                min: 1
+                before: €
+
+          text:
+            extends: sections/text
+            fields:
+              textLine: false
+              textGroup: false
+
+      - width: 1/3
+        sections:
+          images:
+            extends: sections/images
+          filesInline:
+            extends: sections/files
+            headline: Files
+            template: document-inline
+
+  documents: tabs/documents
+
+  marketing: tabs/marketing

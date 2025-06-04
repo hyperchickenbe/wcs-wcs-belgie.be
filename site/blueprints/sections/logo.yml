@@ -1,0 +1,9 @@
+label: Logo
+type: files
+layout: cards
+template: image-logo
+max: 1
+image:
+  ratio: 1/1
+help: Only SVG images are allowed.
+empty:  No entries yet

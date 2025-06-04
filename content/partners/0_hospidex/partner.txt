@@ -1,0 +1,9 @@
+Title: Hospidex
+
+----
+
+Partnerurl: https://www.hospidex.eu/
+
+----
+
+Uuid: lXORg7RlOW8BeASz

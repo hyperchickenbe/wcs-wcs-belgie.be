@@ -1,0 +1,8 @@
+headline: Pages
+type: pages
+layout: list
+image: icon
+templates:
+  - toc-item
+  - faq
+empty: No entries yet

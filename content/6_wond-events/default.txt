@@ -1,0 +1,25 @@
+Title: Wondzorgevents
+
+----
+
+Heroheadline: 
+
+----
+
+Text: [{"content":{"text":"<p>Jaarlijks zet WCS België twee actuele wondzorgthema's in de kijker. Rond ierder thema wordt een ad hoc werkgroep opgericht samengesteld uit enkele van onze werkgroepleden.</p><p>Iedere werkgroep streeft naar het afleveren van een praktische richtlijn of een poster die ter beschikking worden gesteld via onze website (zie 'Richtlijnen'). Deze documenten worden tweejaarlijks gecontroleerd en zo nodig herzien zodat je steeds over de meest actuele informatie kan beschikken.</p><p>Ieder thema wordt uitgebreid toegelicht/gelanceerd tijdens vormingsavonden op verschillende locaties in Vlaanderen: <strong>onze wondzorgevents.</strong> Tijdens deze events heb je de kans om een uitgebreidere theoretische toelichting alsook enkele praktijkgerelateerde toepassingen te beluisteren en bekijken. Deze interactieve lezingen worden steeds verzorgd door de betrokken werkgroepleden die je doorheen de avond ook laagdrempelig kan ontmoeten. Daarnaast bieden wij je tijdens ieder wondzorgevent uitgebreid de mogelijkheid om de standen van de aanwezige firma's uit de medische industrie te bezoeken.</p><p>De presentaties die gebruikt worden tijdens deze wondzorgevents worden na afloop enkel ter beschikking gesteld aan de deelnemers. Deze presentaties zijn i.t.t. de richtlijn of poster zelf dus niet openbaar beschikbaar. Deelnemen is dus de boodschap!</p><p>De aankomende wondzorgevents worden steeds aangekondigd via onze agenda.</p><p>Plan je onze events regelmatig bij te wonen? Dan is het interessant je te abonneren op ons driemaandelijks wondzorgtijdschrift. Dankzij dat abonnement geniet je ook een mooie korting op het inschrijvingsgeld voor onze wondzorgevents en congressen.</p>"},"id":"1e269d4b-aa6c-4988-8aff-03d54c33a72c","isHidden":false,"type":"text"}]
+
+----
+
+Marketingtitle: 
+
+----
+
+Marketingdescription: 
+
+----
+
+Marketingimage: 
+
+----
+
+Uuid: 10VAG2CDye53YPsG

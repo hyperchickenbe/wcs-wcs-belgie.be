@@ -1,0 +1,25 @@
+Title: Combinatie van Flaminal en Melolin: mag dat?
+
+----
+
+Question: Op een bijscholing van de firma raden zij Flaminal in combinatie met Melolin af. Hoe zit dat?
+
+----
+
+Answer: [{"content":{"text":"<p>Flaminal hydro en forte worden meestal gebruikt op wonden met matig tot sterk exsudaat.\u00a0Melolin daarentegen is een niet inklevend verband met een relatief beperkte absorptiecapaciteit.<\/p><p>Indien je deze twee gaat combineren bestaat het risico dat het wondvocht onvoldoende geabsorbeerd wordt en je maceratie van de wondomgeving meer in de hand gaat werken. Dat is vaak de reden dat ze dit minder adviseren.<\/p><p>Flaminal zal daarom of gewoon aangebracht worden, of gecombineerd worden met een vetverband \u00a0met daarover en absorberend verband.<\/p>"},"id":"d57bb712-0f3a-4f22-ba9a-e2569f7674d2","isHidden":false,"type":"text"}]
+
+----
+
+Marketingtitle: 
+
+----
+
+Marketingdescription: 
+
+----
+
+Marketingimage: 
+
+----
+
+Uuid: 7HnHLHkkOJvsXua6

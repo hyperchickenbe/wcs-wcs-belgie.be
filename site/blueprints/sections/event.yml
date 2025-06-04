@@ -1,0 +1,13 @@
+headline: Event
+type: pages
+template: event
+layout: table
+parent: site.find("agenda")
+sortBy: eventfrom desc
+image: false
+info: false
+columns:
+  datum:
+    label: Datum
+    value: "{{ page.eventFrom.toDate('d.m.Y') }}"
+empty: No entries yet

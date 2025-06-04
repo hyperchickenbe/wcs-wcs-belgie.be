@@ -1,0 +1,6 @@
+headline: Images
+type: files
+template: image
+info: "{{ file.dimensions }}"
+help: Only JPG and PNG files are allowed.
+empty: No entries yet

@@ -1,0 +1,30 @@
+type: fields
+fields:
+  textLine:
+    type: line
+  textGroup:
+    label: Text
+    type: headline
+    numbered: false
+  text:
+    type: blocks
+    fieldsets:
+      text:
+        label: Text
+        type: group
+        fieldsets:
+          - heading
+          - text
+          - list
+          - box
+      media:
+        label: Media
+        type: group
+        fieldsets:
+          - image
+          - video
+      code:
+        label: Code
+        type: group
+        fieldsets:
+          - markdown

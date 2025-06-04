@@ -1,0 +1,6 @@
+headline: Pages
+type: pages
+layout: list
+image: icon
+template: faq-item
+empty: No entries yet

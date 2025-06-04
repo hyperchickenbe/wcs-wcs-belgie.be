@@ -1,0 +1,53 @@
+Title: Anual Meeting 'Leg Ulcer'
+
+----
+
+Eventheadline: 
+
+----
+
+Eventtype: Benelux Society for Phlebology
+
+----
+
+Eventfrom: 2023-06-09
+
+----
+
+Eventto: 2023-06-10
+
+----
+
+Eventlocation: Rotterdam (Nederland)
+
+----
+
+Eventlink: https://phlebologybenelux.org/annual-meeting-2023/
+
+----
+
+Eventgooglemaps: 
+
+----
+
+Eventtoggle: false
+
+----
+
+Text: [{"content":{"text":"<p>Het programma kan u via <a href=\"https:\/\/simplygood.work\/wcs-belgie\/media\/pages\/agenda\/benelux-society-for-phlebology\/cf8396582c-1681413296\/programma-bvf-2023_7-03-23.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">deze link<\/a> vinden.<\/p>"},"id":"f8955790-0d40-4a26-8fe9-de09070f2892","isHidden":false,"type":"text"}]
+
+----
+
+Marketingtitle: 
+
+----
+
+Marketingdescription: 
+
+----
+
+Marketingimage: 
+
+----
+
+Uuid: lNgIWc3X7wf9H0wP

@@ -1,0 +1,65 @@
+Title: Congres: Internationale dag tegen decubitus
+
+----
+
+Eventheadline: 
+
+----
+
+Eventtype: WCS/CNC/Eduwond
+
+----
+
+Eventfrom: 2023-11-16
+
+----
+
+Eventto: 
+
+----
+
+Eventlocation: Arteveldehogeschool - Campus Kantienberg - Voetweg 66, Gent
+
+----
+
+Eventlink: 
+
+----
+
+Eventgooglemaps: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2508.6441720941257!2d3.726154015752873!3d51.04119237956117!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c371573f6526af%3A0x26c10380b39bb8ed!2sArteveldehogeschool%20-%20Campus%20Kantienberg!5e0!3m2!1snl!2sbe!4v1687376962091!5m2!1snl!2sbe
+
+----
+
+Eventtoggle: false
+
+----
+
+Eventpricemember: 
+
+----
+
+Eventpricestudent: 
+
+----
+
+Eventprice: 
+
+----
+
+Text: [{"content":{"text":"<p><a href=\"https://www.eduwond.be/nl/\" target=\"_blank\" rel=\"noreferrer\">Eduwond </a>, <a href=\"https://www.wondzorg.net/\" target=\"_blank\" rel=\"noreferrer\">Wondzorg.net</a> en WCS België slaan de handen in elkaar en organiseren voor het eerst een gezamenlijk vormings- en netwerkevent tijdens de internationale dag tegen decubitus op 16 november 2023. </p><p>Meer info en mogelijkheid tot inschrijving vind je via <a href=\"https://www.eduwond.be/nl/wondevents/congres-internationale-dag-tegen-decubitus/situering/\" target=\"_blank\" rel=\"noreferrer\">deze link</a>.</p>"},"id":"1760fc80-fab6-4246-af5b-ec8d91c7ceb2","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["file://zQ7qFD2V6URBC4Uz"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"true"},"id":"5eb820e4-6b97-4866-85d3-6871736c51f4","isHidden":false,"type":"image"}]
+
+----
+
+Marketingtitle: 
+
+----
+
+Marketingdescription: 
+
+----
+
+Marketingimage: 
+
+----
+
+Uuid: 9aBnOTYtU4toiPLY

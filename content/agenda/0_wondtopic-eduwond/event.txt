@@ -1,0 +1,65 @@
+Title: Wondtopic Eduwond
+
+----
+
+Eventheadline: Het belang van reinigen en ontsmetten onder de loep
+
+----
+
+Eventtype: Eduwond
+
+----
+
+Eventfrom: 2024-05-16
+
+----
+
+Eventto: 
+
+----
+
+Eventlocation: Gent
+
+----
+
+Eventlink: 
+
+----
+
+Eventgooglemaps: 
+
+----
+
+Eventtoggle: false
+
+----
+
+Eventpricemember: 
+
+----
+
+Eventpricestudent: 
+
+----
+
+Eventprice: 
+
+----
+
+Text: 
+
+----
+
+Marketingtitle: 
+
+----
+
+Marketingdescription: 
+
+----
+
+Marketingimage: 
+
+----
+
+Uuid: QS9CtiWwzEJQJyWI

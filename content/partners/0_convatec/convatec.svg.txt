@@ -1,0 +1,9 @@
+Sort: 1
+
+----
+
+Uuid: YuNR5rWS7Kcfg51S
+
+----
+
+Template: image-logo

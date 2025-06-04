@@ -1,0 +1,37 @@
+Title: Referentieverpleegkundige Wondzorg
+
+----
+
+Heroheadline: Opleiding
+
+----
+
+Text: [{"content":{"level":"h2","text":"Referentieverpleegkundige wondzorg"},"id":"be6d0afb-2d45-421c-918b-2fb03c577aac","isHidden":false,"type":"heading"},{"content":{"text":"<ul><li>Word je als verpleegkundige geconfronteerd met een grote diversiteit aan wonden? Zoals chirurgische of traumatische wonden, decubituswonden, brandwonden, oncologische wonden, bestralingswonden of meer chronische wonden zoals diabetische voet of ulcus cruris?</li><li>Vind je ook dat de verzorging ervan niet altijd in optimale omstandigheden verloopt?</li><li>Ben je alert voor de vragen van patiënt en zorgverlener over probleemwonden?</li></ul>"},"id":"c9d26b51-577c-4193-a340-9e736140dc04","isHidden":false,"type":"list"},{"content":{"text":"<p>Dan is de opleiding 'Referentieverpleegkundige wondzorg' echt iets voor jou! Deze opleiding biedt een basiskennis om de vaak complexe zorgsituaties van patiënten met een wonde te begrijpen.</p><p>Gespecialiseerde docenten vanuit verschillende disciplines geven up-to-date informatie over de wondfysiologie en -pathologie. Je leert een rationele keuze te maken voor het juiste product op de juiste wonde. Je leert de wondheling vlugger en adequater te laten evolueren. Dit met kennis over de aspecten van wondbedvoorbereiding, met inzicht in de fysiopathologie van wonden en de preventie ervan.</p><p>Met deze praktisch toepasbare informatie en theoretische kennis kun je als referentieverpleegkundige in de wondzorg aan de slag. Zowel in de ziekenhuissector, thuisgezondheidszorg als in woon- en zorgcentra.</p><p>Welke erkenning je geniet als referentieverpleegkundige wondzorg bij het RIZIV, kan je via <a href=\"https://www.riziv.fgov.be/SiteCollectionDocuments/formulier_verordening20030728_bijlage_96.pdf\" target=\"_blank\" rel=\"noreferrer\">deze link </a>nalezen.</p><p>Ben je op zoek naar nóg meer verdieping in het vakgebied wondzorg? Dan verwijzen we jou graag naar de pagina van ons <a href=\"/opleiding/postgraduaat-woundmanagement\" rel=\"noreferrer\">postgraduaat woundmanagement</a>, in samenwerking met PXL Healthcare.</p>"},"id":"d14777b3-402e-4472-942b-875be770a803","isHidden":false,"type":"text"},{"content":{"text":"<p>WCS België verleent zijn medewerking aan de organisatie van verschillende opleidingen 'Referentieverpleegkundige wondzorg'. Dit in samenwerking met 2 hogescholen in de provincies Antwerpen en Vlaams-Brabant.</p><p>Door te klikken op onderstaande schoollogo's, kan u het concreet curriculum en de inschrijvingsmodaliteiten van de verschillende opleidingen bekijken.</p>"},"id":"a5606183-2290-4f03-af96-f57629f984fb","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["file://YSgZL6MUHmvuwKoR"],"src":"","alt":"","caption":"","link":"https://www.pxl-next.be/opleidingen/referentieverpleegkundige-wondzorg","ratio":"3/1","crop":"false"},"id":"ac9cd273-7511-492c-b316-fb7f8d8c1ce4","isHidden":true,"type":"image"},{"content":{"location":"kirby","image":["file://7eeKPSRwOnpsm5vt"],"src":"","alt":"","caption":"","link":"https://research-expertise.ucll.be/nl/navormingen/referentieverpleegkundige-de-wondzorg-2026","ratio":"3/1","crop":"false"},"id":"bd3f9a95-9a0a-4f2a-b4a4-419f8e718955","isHidden":false,"type":"image"},{"content":{"location":"kirby","image":["file://Zdc5miYw9PvYBBC9"],"src":"","alt":"","caption":"","link":"https://www.kdg.be/opleidingen/navormingen-en-studiedagen/wondzorg","ratio":"3/1","crop":"false"},"id":"b0bcebad-cdb8-4aaa-b5e8-728061fb3986","isHidden":false,"type":"image"}]
+
+----
+
+Cover: 
+
+----
+
+Marketingtitle: 
+
+----
+
+Marketingdescription: 
+
+----
+
+Marketingimage: 
+
+----
+
+Images: 
+
+----
+
+Files: 
+
+----
+
+Uuid: zR8bFK8DOsq4HioG

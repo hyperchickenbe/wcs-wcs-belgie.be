@@ -1,0 +1,37 @@
+Title: Postgraduaat Woundmanagement
+
+----
+
+Heroheadline: Opleiding
+
+----
+
+Text: [{"content":{"level":"h2","text":"Postgraduaat Woundmanagement"},"id":"251da032-d712-4cb2-9424-faf1b116796a","isHidden":false,"type":"heading"},{"content":{"text":"<p>Het postgraduaat Woundmanagement bereidt je voor om als professional accuraat in te spelen op de vaak complexe zorgsituaties die de behandeling van diverse wonden met zich mee kan brengen.<\/p><p>De keuze voor verbandmaterialen, lokale applicaties of technieken voor de behandeling van slecht genezende wonden, wordt nog te vaak bepaald door traditionele opvattingen. Omdat er tijdens de laatste decennia veel moderne en effici\u00ebntere verbandmaterialen zijn ontwikkeld, is een continue vorming omtrent aspecten die de wondheling be\u00efnvloeden noodzakelijk. Het aanbod van talloze wondzorgproducten, maar ook de diversiteit aan protocollen (al dan niet gebaseerd op wetenschappelijk onderzoek), maakt het voor de zorgverlener moeilijk om bij wondbehandeling tot een evidence based besluitvoering te komen.<\/p><p>Dit postgraduaat biedt je de nodige handvaten om kwalitatief hoogstaande wondzorg op maat van de pati\u00ebnt te bieden. Dit op een theoretisch diepgaander niveau dan bij de opleiding referentieverpleegkundige wondzorg.<\/p><p>Deze opleiding wordt georganiseerd in een samenwerking tussen Hogeschool PXL (Hasselt) en Woundcare Consultant Society Belgium (WCS Belgi\u00eb).<\/p>"},"id":"0c253b2f-fd7f-49ac-8711-3fbf06d7b83e","isHidden":false,"type":"text"},{"content":{"level":"h3","text":"Doelstellingen"},"id":"604d7e60-77e2-40d7-be55-2ee5bd82158b","isHidden":false,"type":"heading"},{"content":{"text":"<ul><li>Verbreding en verdieping van kennis, vaardigheden en attitudes bij verpleegkundigen op het vlak van wondzorg.<\/li><li>Adequate, kwaliteitsvolle en evidence based zorgverlening aan zorgvragers met acute of chronische wonden.<\/li><li>Interdisciplinaire samenwerking met betrekking tot wondzorg (geneesheer, verpleegkundige, di\u00ebtist, podoloog, microbioloog en industrie).<\/li><li>Evidence Based Woundcare in plaats van traditionele zorgverlening.<\/li><\/ul>"},"id":"b10c23b1-f087-4f49-96cf-ca87524bdd8a","isHidden":false,"type":"list"},{"content":{"level":"h3","text":"Doelgroep en toelatingsvoorwaarden"},"id":"cea108ed-b709-4f65-a24d-4a60c140219f","isHidden":false,"type":"heading"},{"content":{"text":"<p>Alle verpleegkundigen, vroedvrouwen, artsen en andere professionele gezondheidswerkers die een extra deskundigheid binnen de wondzorg willen behalen.<br>Voor het behalen van het getuigschrift van het postgraduaat is een bachelor (of gelijkgestelde) vooropleiding vereist. Verpleegkundigen met een HBO5-vooropleiding (A2-verpleegkundigen) kunnen de opleiding\u00a0ook volgen,\u00a0maar\u00a0komen niet in aanmerking voor het getuigschrift en zijn\u00a0dus niet verplicht tot\u00a0deelname aan de examens van de verschillende modules en het uitwerken van een paper. Zij krijgen wel een aanwezigheidsattest.<\/p><p>Deelnemers die na 2012 een opleiding tot referentieverpleegkundige inzake wondzorg in de eerstelijnsgezondheidszorg hebben gevolgd of een andere gelijkaardige opleiding van minstens 40 lesuren, kunnen op basis van elders verworven kwalificaties een vrijstelling aanvragen voor module 1.\u00a0<\/p>"},"id":"e35ad6b4-fd64-4ad3-9957-9c399c99fa8f","isHidden":false,"type":"text"},{"content":{"level":"h3","text":"Programma, evaluatie en inschrijving"},"id":"75c06723-4fd4-464f-a65c-9ce8e52d6725","isHidden":false,"type":"heading"},{"content":{"text":"<p>Aanvullende informatie over het programma (5 modules), de inschrijvings- en evaluatiemodaliteiten vind je terug via de website van Hogeschool PXL (klik op onderstaande afbeelding).<\/p>"},"id":"1fdef465-a351-436c-a92b-4c24a3db4ed6","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["file:\/\/8q1ErrsXczpNb8bV"],"src":"","alt":"","caption":"","link":"https:\/\/www.pxl-next.be\/opleidingen\/woundmanagement#welcome","ratio":"","crop":"false"},"id":"ac9412e1-a462-449a-b5db-0f533a6d2f6e","isHidden":false,"type":"image"},{"content":{"level":"h3","text":"Vragen?"},"id":"44d5b839-b4ac-40a1-89e7-e4cc5eabac22","isHidden":false,"type":"heading"},{"content":{"text":"<p>Eventuele vragen kan je richten aan Adinda Toppets (<a href=\"mailto:Adinda.Toppets@PXL.BE\">Adinda.Toppets@pxl.be<\/a>)<\/p>"},"id":"bf34a646-f664-4a15-b7f0-eae2b77fcac3","isHidden":false,"type":"text"}]
+
+----
+
+Cover: 
+
+----
+
+Marketingtitle: 
+
+----
+
+Marketingdescription: 
+
+----
+
+Marketingimage: 
+
+----
+
+Images: 
+
+----
+
+Files: 
+
+----
+
+Uuid: mm86JTmbbJZnoQCL

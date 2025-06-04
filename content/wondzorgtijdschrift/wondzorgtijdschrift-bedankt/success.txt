@@ -1,0 +1,21 @@
+Title: Bedankt
+
+----
+
+Heroheadline: Aanmelding ontvangen
+
+----
+
+Text: [{"content":{"text":"<p>Hartelijk dank.<\/p><p>Uw aanvraag voor abonnement is goed aangekomen. Het abonnement geldt voor het <strong>lopende burgerlijk jaar<\/strong>.<\/p><p>U krijgt via email van ons secretariaat een persoonlijke <strong>betalingsreferentie<\/strong> en uw <strong>abonneenummer<\/strong>.<\/p><p>Noteer alvast het rekeningnummer van WCS Belgi\u00eb:<\/p>"},"id":"416a224c-3c00-4f38-a9f6-7b73151cad9f","isHidden":false,"type":"text"},{"content":{"text":"<ul><li><strong>IBAN BE 66 7775 9139 6043<\/strong><\/li><li><strong>BIC GKCCBEBB<\/strong><\/li><\/ul>"},"id":"e65476cf-d34e-4534-bd96-c384ca22c57b","isHidden":false,"type":"list"},{"content":{"text":"<p>Vriendelijke groet,<\/p><p>Het WCS Team<\/p>"},"id":"d18cd54d-00be-4ade-9f72-a0aef211bc96","isHidden":false,"type":"text"}]
+
+----
+
+Herolinktext: Ga naar de homepage
+
+----
+
+Herolink: home
+
+----
+
+Uuid: bzSv9jKwES8TpG3R

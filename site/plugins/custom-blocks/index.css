@@ -1,0 +1,28 @@
+.k-block-type-box {
+  border-radius: .25em;
+}
+
+.k-block-type-box .k-writer {
+  padding: 1em;
+}
+
+.k-block-type-box code:not([class]) {
+  background-color: hsla(0, 0%, 0%, .1);
+  color: hsl(0, 0%, 0%);
+}
+
+.k-block-type-box.box-info {
+  background-color: hsl(213, 100%, 90%);
+}
+
+.k-block-type-box.box-success {
+  background-color: hsl(68, 70%, 82%);
+}
+
+.k-block-type-box.box-warning {
+  background-color: hsl(30, 100%, 85%);
+}
+
+.k-block-type-box.box-alert {
+  background-color: hsl(0, 100%, 90%);
+}

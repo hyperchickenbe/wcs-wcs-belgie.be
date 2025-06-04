@@ -1,0 +1,65 @@
+Title: Wondzorg en pijn: naar een gestructureerde aanpak
+
+----
+
+Eventheadline: Wondzorg en pijn: naar een gestructureerde aanpak
+
+----
+
+Eventtype: WCS Wondevent
+
+----
+
+Eventfrom: 2025-05-15
+
+----
+
+Eventto: 
+
+----
+
+Eventlocation: Wit-Gele Kruis Oost-Vlaanderen (Gent)
+
+----
+
+Eventlink: 
+
+----
+
+Eventgooglemaps: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1491.8107478549136!2d3.7338590810180805!3d51.0361606939029!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c373ffe09bdd81%3A0xd3ea1818706686d3!2sQ-Park%20Gent%20Zuiderpoort!5e0!3m2!1snl!2sbe!4v1740218881357!5m2!1snl!2sbe
+
+----
+
+Eventtoggle: true
+
+----
+
+Eventpricemember: 10
+
+----
+
+Eventpricestudent: 10
+
+----
+
+Eventprice: 25
+
+----
+
+Text: [{"content":{"text":"<p>Pijn is een veel voorkomend gegeven bij zowel acute als chronische wonden. Zo blijkt uit onderzoek dat tot 80% van de patiënten met een chronische wonde voortdurend pijn ervaart. Ook het uitvoeren van wondzorg (bv. reiniging, debridement) wordt door het merendeel van de patiënten als pijnlijk ervaren. Evidentie laat zien dat 76% van de patiënten matige tot ernstige pijn ondervindt bij verbandwissels. Ongeveer de helft hiervan heeft het zelfs over ernstige pijnklachten.</p><p>Het ervaren van pijn kan een grote impact hebben op de kwaliteit van leven. Bijgevolg is een effectief pijnmanagement van groot belang.               <br>Wondgerelateerde pijn is een multifactorieel probleem dat een holistische aanpak vereist. Wond- en pijnspecialisten gingen daarom samen aan de slag om een gestructureerde aanpak van pijn bij wondzorg uit te werken. Hierbij komen zowel farmacologische als niet-farmacologische interventies aan bod.</p><p>Verdient jouw patiënt ook een zo’n gestructureerde aanpak? Dan zien we jou graag op een van onze events in <a href=\"https://www.wcs-belgie.be/agenda/wondzorg-en-pijn-naar-een-gestructureerde-aanpak\" rel=\"noreferrer\">Herentals</a>, <a href=\"https://www.wcs-belgie.be/agenda/wondzorg-en-pijn-naar-een-gestructureerde-aanpak-copy-copy\" rel=\"noreferrer\">Leuven </a>of Gent.</p><p>Je kan de brochure van het event in Gent via <a href=\"https://www.wcs-belgie.be/media/pages/agenda/wondzorg-en-pijn-naar-een-gestructureerde-aanpak-copy/90998e1d3d-1740218825/250515-wondevent_wondzorg-en-pijn_gent.pdf\" target=\"_blank\" rel=\"noreferrer\">deze link</a> downloaden. Inschrijving is enkel mogelijk via onderstaande knop. Van harte welkom!</p>"},"id":"6b4c4dcb-1df8-4adc-b278-e775c55154ec","isHidden":false,"type":"text"}]
+
+----
+
+Marketingtitle: 
+
+----
+
+Marketingdescription: 
+
+----
+
+Marketingimage: 
+
+----
+
+Uuid: PALD5uPri0nrkdeU

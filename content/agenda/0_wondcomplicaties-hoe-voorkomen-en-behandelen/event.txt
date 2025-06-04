@@ -1,0 +1,65 @@
+Title: Wondcomplicaties: hoe voorkomen en behandelen?
+
+----
+
+Eventheadline: 
+
+----
+
+Eventtype: Wondforum UZ Leuven
+
+----
+
+Eventfrom: 2025-02-04
+
+----
+
+Eventto: 
+
+----
+
+Eventlocation: UZ Leuven
+
+----
+
+Eventlink: 
+
+----
+
+Eventgooglemaps: 
+
+----
+
+Eventtoggle: false
+
+----
+
+Eventpricemember: 
+
+----
+
+Eventpricestudent: 
+
+----
+
+Eventprice: 
+
+----
+
+Text: [{"content":{"text":"<p>Meer info kan u vinden op <a href=\"https://www.wcs-belgie.be/media/pages/agenda/wondcomplicaties-hoe-voorkomen-en-behandelen/fed91962cd-1734942328/23sc0113_affiche_wondzorg_permanente_vorming_201224.pdf\" rel=\"noreferrer\">deze flyer</a>.</p>"},"id":"4470b21d-0131-41a0-8741-137e96679958","isHidden":false,"type":"text"}]
+
+----
+
+Marketingtitle: 
+
+----
+
+Marketingdescription: 
+
+----
+
+Marketingimage: 
+
+----
+
+Uuid: Z1dhBnVyGmBfVaKk

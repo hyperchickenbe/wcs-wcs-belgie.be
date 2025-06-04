@@ -1,0 +1,65 @@
+Title: TIME in een nieuw jasje: het TIME CDST model
+
+----
+
+Eventheadline: TIME in een nieuw jasje: het TIME CDST model (Genk)
+
+----
+
+Eventtype: WCS wondevent
+
+----
+
+Eventfrom: 2024-05-21
+
+----
+
+Eventto: 
+
+----
+
+Eventlocation: ZOL Genk
+
+----
+
+Eventlink: 
+
+----
+
+Eventgooglemaps: 
+
+----
+
+Eventtoggle: true
+
+----
+
+Eventpricemember: 10
+
+----
+
+Eventpricestudent: 10
+
+----
+
+Eventprice: 25
+
+----
+
+Text: [{"content":{"text":"<p>Het TIME-concept werd bijna 20 jaar geleden geïntroduceerd in België. Benieuwd hoe zijn nieuwe jasje eruit ziet en hoe jij dit kan toepassen in je praktijkvoering? Dan zien we je graag op een van onze events in Genk, Leuven of Kortrijk</p><p>Je kan de brochure van het event in Genk via <a href=\"https://www.wcs-belgie.be/agenda/t-i-m-e-in-een-nieuw-jasje-het-t-i-me-cdst-model/240521-wondevent_time-cdst_genk.pdf\" target=\"_blank\" rel=\"noreferrer\">deze link</a> downloaden. Van Harte welkom!</p>"},"id":"a3110dea-e7cd-448d-a85e-bc97921e5a23","isHidden":false,"type":"text"}]
+
+----
+
+Marketingtitle: 
+
+----
+
+Marketingdescription: 
+
+----
+
+Marketingimage: 
+
+----
+
+Uuid: 4miVO8bfSoOixNHb

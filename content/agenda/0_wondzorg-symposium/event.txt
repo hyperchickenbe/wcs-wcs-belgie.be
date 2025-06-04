@@ -1,0 +1,65 @@
+Title: Wondzorg 2.0
+
+----
+
+Eventheadline: 
+
+----
+
+Eventtype: Wondzorg symposium
+
+----
+
+Eventfrom: 2024-04-17
+
+----
+
+Eventto: 
+
+----
+
+Eventlocation: Aarschot
+
+----
+
+Eventlink: 
+
+----
+
+Eventgooglemaps: 
+
+----
+
+Eventtoggle: false
+
+----
+
+Eventpricemember: 
+
+----
+
+Eventpricestudent: 
+
+----
+
+Eventprice: 
+
+----
+
+Text: 
+
+----
+
+Marketingtitle: 
+
+----
+
+Marketingdescription: 
+
+----
+
+Marketingimage: 
+
+----
+
+Uuid: 6sPqHNvjE3zeTbQh

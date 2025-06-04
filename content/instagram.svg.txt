@@ -1,0 +1,5 @@
+Uuid: 259pcC7mqC8yk50n
+
+----
+
+Template: image-logo

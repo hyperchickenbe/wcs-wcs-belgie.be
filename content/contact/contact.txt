@@ -1,0 +1,57 @@
+Title: Contacteer
+
+----
+
+Heroheadline: 
+
+----
+
+Text: [{"content":{"text":"<p>Neem contact op met ons secretariaat via onderstaand formulier.</p>"},"id":"41ea5104-da87-473f-b92e-29faaded92cd","isHidden":false,"type":"text"}]
+
+----
+
+Formrequired: Velden met een (*) zijn verplicht in te vullen.
+
+----
+
+Formhoneypot: Laat dit veld leeg (anti-spam)
+
+----
+
+Labelname: Voornaam
+
+----
+
+Labelsurname: Achternaam
+
+----
+
+Labelemail: E-mail
+
+----
+
+Labelemailcheck: E-mail (controle)
+
+----
+
+Labelmessage: Bericht
+
+----
+
+Nextbutton: Bericht verzenden
+
+----
+
+Marketingtitle: 
+
+----
+
+Marketingdescription: 
+
+----
+
+Marketingimage: 
+
+----
+
+Uuid: wyKiIuIqEZk3cUb8

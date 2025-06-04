@@ -1,0 +1,32 @@
+label: Notification
+columns:
+
+  - width: 2/3
+    fields:
+      notificationToggle:
+        label: Enable
+        type: toggle
+        text:
+          - "no"
+          - "yes"
+      notificationText:
+        label: Text
+        type: textarea
+        size: small
+        buttons:
+          - bold
+          - link
+        when:
+          notificationToggle: yes
+      notificationLink:
+        label: Link URL
+        type: url
+        width: 1/2
+        when:
+          notificationToggle: yes
+      notificationLinkText:
+        label: Link Text
+        type: text
+        width: 1/2
+        when:
+          notificationToggle: yes

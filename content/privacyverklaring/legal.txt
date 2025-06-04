@@ -1,0 +1,25 @@
+Title: Privacyverklaring
+
+----
+
+Heroheadline: Privacyverklaring WCS België
+
+----
+
+Text: [{"content":{"text":"<p>WCS Belgi\u00eb vzw houdt persoonsgegevens bij in een databestand. Het betreft de namen van personen en hun diverse adresgegevens.<br>Deze gegevens worden door de vzw gebruikt om haar activiteiten bekend te maken en om een administratieve communicatie met betrokkene te\u00a0kunnen voeren.<br>De vzw vraagt deze gegevens bij diverse communicaties aan de correspondenten.<\/p>"},"id":"1873425d-be21-4b9b-a2ed-eac5c2079b50","isHidden":false,"type":"text"},{"content":{"text":"<p>De gegevens worden verwerkt door de secretaris van de vzw.<br>Ieder die contacten legt met de vzw heeft het recht om zijn bewaarde gegevens op te vragen, deze te corrigeren en deze te laten verwijderen uit het bestand.<br>Ieder die contacten legt met de vzw heeft het recht om te vragen zijn persoonlijke gegevens geheel of gedeeltelijk niet te bewaren.<\/p>"},"id":"0e1951fa-073e-411c-8374-8847e8e6cbe0","isHidden":false,"type":"text"},{"content":{"text":"<p>Persoonsgegevens worden door de vzw niet overgedragen aan derden.<\/p>"},"id":"9132cd13-cc15-4571-9cdd-693dc18f7365","isHidden":false,"type":"text"},{"content":{"text":"<p>Contactadres voor inzage of wijziging van gegevens: <a href=\"mailto:secretaris@wcs-belgie.be\">secretaris@wcs-belgie.be<\/a><\/p>"},"id":"fcbe3b0b-135b-4c04-865d-620d1ac29dab","isHidden":false,"type":"text"}]
+
+----
+
+Marketingtitle: 
+
+----
+
+Marketingdescription: 
+
+----
+
+Marketingimage: 
+
+----
+
+Uuid: xY8pW8xJGhMZApuU

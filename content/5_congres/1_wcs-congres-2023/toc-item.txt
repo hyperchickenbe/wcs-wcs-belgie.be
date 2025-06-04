@@ -1,0 +1,37 @@
+Title: WCS congres 2023
+
+----
+
+Heroheadline: 
+
+----
+
+Text: [{"content":{"text":"<p>Het WCS congres 2023 vond plaats door op dinsdag 24 oktober 2023. De titel van deze boeiende en leerrijke dag  was '<strong>Wonde zoekt antwoord</strong>'.</p><p>Hieronder kan u de congresfolder terugvinden. Nam u deel aan dit congres? Dan kon u de presentaties tot 1 maand na het congres downloaden via de QR-code op uw aanwezigheidsattest. </p>"},"id":"f9087218-11c8-465b-8a02-861e49087f78","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["file://TOMRnIG3LzsvL9cD"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"true"},"id":"4dc950fb-7c6b-4b9f-83d1-3f283054be8c","isHidden":false,"type":"image"},{"content":{"location":"kirby","image":["file://Na57xRJwx9dVTer0"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"true"},"id":"dc44a82b-25b5-46eb-bcf2-bd0ac1e3c566","isHidden":false,"type":"image"}]
+
+----
+
+Cover: 
+
+----
+
+Marketingtitle: 
+
+----
+
+Marketingdescription: 
+
+----
+
+Marketingimage: 
+
+----
+
+Images: 
+
+----
+
+Files: 
+
+----
+
+Uuid: LFKf2zJZVsjXEZth

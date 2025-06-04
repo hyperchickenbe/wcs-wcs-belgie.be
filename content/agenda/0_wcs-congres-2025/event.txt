@@ -1,0 +1,65 @@
+Title: WCS congres België 2025
+
+----
+
+Eventheadline: 
+
+----
+
+Eventtype: WCS congres
+
+----
+
+Eventfrom: 2025-10-21
+
+----
+
+Eventto: 
+
+----
+
+Eventlocation: CC Hasselt
+
+----
+
+Eventlink: 
+
+----
+
+Eventgooglemaps: 
+
+----
+
+Eventtoggle: false
+
+----
+
+Eventpricemember: 
+
+----
+
+Eventpricestudent: 
+
+----
+
+Eventprice: 
+
+----
+
+Text: [{"content":{"text":"<p>Zodra de inschrijvingen geopend zijn, vind je op deze pagina meer info terug. Wordt vervolgd. </p>"},"id":"6cf42d3f-945d-4e49-a567-63ca2773f5ab","isHidden":false,"type":"text"}]
+
+----
+
+Marketingtitle: 
+
+----
+
+Marketingdescription: 
+
+----
+
+Marketingimage: 
+
+----
+
+Uuid: sOeZSoOPEPSnSSXL

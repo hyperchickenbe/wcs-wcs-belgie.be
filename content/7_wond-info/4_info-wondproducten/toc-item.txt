@@ -1,0 +1,37 @@
+Title: Info wondproducten
+
+----
+
+Heroheadline: 
+
+----
+
+Text: [{"content":{"text":"<p>Als wondzorgvereninging willen we je zo goed als mogelijk informeren over de verschillende wondproducten die ter beschikking zijn op de Belgische markt.</p><p>Via de logo’s van onze partners onderaan op iedere pagina, kan je meer concrete productinfo vinden die door deze firma's ter beschikking wordt gesteld.</p><p>In <a href=\"/wond-info/info-wondproducten/productbijlage_handboekwz_2016.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">de productbijlage</a> uit het <a href=\"https://www.witgelekruis.be/publicatie/handboek-wondzorg\" target=\"_blank\" rel=\"noopener noreferrer\">\"Handboek Wondzorg\"</a>, ter beschikking gesteld door het Wit-Gele Kruis, kan je een overzicht vinden van alle wondproducten. Na het overzicht vind je een gedetailleerde beschrijving van die producten. </p><p>Meer info over de terugbetaling van actieve verbanden kan je nalezen bij het <a href=\"https://www.riziv.fgov.be/nl/themas/kost-terugbetaling/door-ziekenfonds/geneesmiddel-gezondheidsproduct/terugbetalen/Paginas/terugbetaling-actieve-verbandmiddelen-chronische-wonden.aspx\" target=\"_blank\" rel=\"noopener noreferrer\">RIZIV</a>.</p>"},"id":"8806ab6e-be42-4973-aa02-c06119b29039","isHidden":false,"type":"text"}]
+
+----
+
+Cover: 
+
+----
+
+Marketingtitle: 
+
+----
+
+Marketingdescription: 
+
+----
+
+Marketingimage: 
+
+----
+
+Images: 
+
+----
+
+Files: 
+
+----
+
+Uuid: Ef1ZWis6lj5OHmiW

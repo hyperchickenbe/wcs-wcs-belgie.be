@@ -1,0 +1,115 @@
+.text {
+  max-width: 60ch;
+}
+
+@media (max-width: 45rem) {
+  .text {
+    width: 90vw;
+  }
+}
+
+.page-event .text {
+  max-width: initial;
+}
+
+.text h2 {
+  font-size: var(--text-4xl);
+  font-weight: 700;
+  line-height: 1.2;
+}
+
+.text h2 a {
+  text-decoration: none;
+}
+
+.text h3 {
+  font-size: var(--text-3xl);
+}
+
+.text h4 {
+  font-size: var(--text-2xl);
+  font-weight: 500;
+}
+
+.text ul > li,
+.text ol ul > li {
+  list-style: disc;
+}
+
+.text ul ul > li,
+.text ol ul ul > li {
+  list-style: circle;
+}
+
+.text ul ul ul > li {
+  list-style: square;
+}
+
+.text ol > li {
+  list-style: decimal;
+}
+
+.text > ul {
+  padding-left: 1em;
+}
+
+.text ul,
+.text ol {
+  padding-left: 2em;
+}
+
+.text > ul > li::marker {
+  color: var(--color-marker);
+}
+
+.text figcaption {
+  margin-top: .5em;
+  text-align: center;
+  font-size: var(--text-base);
+  color: var(--color-text-mute);
+}
+
+/* Spacing */
+
+.text h3 + *,
+.text h4 + * {
+  margin-top: .5em;
+}
+
+.text h4 + ul,
+.text h4 + ol {
+  margin-top: 1.5em;
+}
+
+.text h2 + * {
+  margin-top: 1em;
+}
+
+.text > * + * {
+  margin-top: 2em; /* Default */
+}
+
+.toc + .text {
+  margin-top: 3em;
+}
+
+.text * + h2 {
+  margin-top: 2em;
+}
+
+.text * + h3,
+.page-event .text * + h3{
+  margin-top: 1.5em;
+}
+
+.text * + h4 {
+  margin-top: 2em;
+}
+
+.text > * + section {
+  margin-top: 4em;
+}
+
+.toc + .text {
+  margin-top: 4em;
+}

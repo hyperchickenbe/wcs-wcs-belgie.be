@@ -1,0 +1,5 @@
+headline: Files
+type: files
+template: document
+help: Only PDF files are allowed.
+empty: No entries yet

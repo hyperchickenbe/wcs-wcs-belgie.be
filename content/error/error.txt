@@ -1,0 +1,21 @@
+Title: Error
+
+----
+
+Heroheadline: Error  404
+
+----
+
+Herosubheading: Pagina niet gevonden
+
+----
+
+Herolinktext: Ga naar de homepage
+
+----
+
+Herolink: home
+
+----
+
+Uuid: C7jm9HrcBg7CmBsb

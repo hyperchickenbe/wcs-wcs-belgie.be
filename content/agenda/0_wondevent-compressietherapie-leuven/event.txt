@@ -1,0 +1,65 @@
+Title: Compressietherapie - De weg naar sneller herstel
+
+----
+
+Eventheadline: Compressietherapie - De weg naar sneller herstel
+
+----
+
+Eventtype: WCS Wondevent
+
+----
+
+Eventfrom: 2024-11-19
+
+----
+
+Eventto: 
+
+----
+
+Eventlocation: UZ Leuven
+
+----
+
+Eventlink: 
+
+----
+
+Eventgooglemaps: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2517.2412478914157!2d4.6709990768911185!3d50.88224515617956!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c1618d58e0cf3b%3A0x73a8fe323bc168c!2sParking%20Onderwijs%20%26%20Navorsing%20A!5e0!3m2!1snl!2sbe!4v1728053421020!5m2!1snl!2sbe
+
+----
+
+Eventtoggle: true
+
+----
+
+Eventpricemember: 10
+
+----
+
+Eventpricestudent: 10
+
+----
+
+Eventprice: 25
+
+----
+
+Text: [{"content":{"text":"<p>Compressietherapie biedt bij onderbeensulcera vaak een weg naar sneller herstel. Benieuwd naar meer informatie hierover? Dan zien we jou graag op een van onze events in Leuven, Hasselt of Antwerpen.</p><p>Je kan de brochure van het event in leuven via <a href=\"https://www.wcs-belgie.be/agenda/wondevent-compressietherapie-leuven/241119-wondevent_compressietherapie_leuven.pdf\" target=\"_blank\" rel=\"noreferrer\">deze link </a>downloaden. Inschrijving is enkel mogelijk via onderstaande knop. Van harte welkom!</p>"},"id":"4fa15a1a-2f20-4cd8-b0e0-6c60121eb911","isHidden":false,"type":"text"}]
+
+----
+
+Marketingtitle: 
+
+----
+
+Marketingdescription: 
+
+----
+
+Marketingimage: 
+
+----
+
+Uuid: T2DGYpjI9r4UjQfz

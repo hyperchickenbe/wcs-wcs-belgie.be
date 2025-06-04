@@ -1,0 +1,65 @@
+Title: Collaborative and sustainable wound care: making everyone’s contribution count
+
+----
+
+Eventheadline: Collaborative and sustainable wound care: making everyone’s contribution count
+
+----
+
+Eventtype: EWMA congres
+
+----
+
+Eventfrom: 2024-05-01
+
+----
+
+Eventto: 2024-05-03
+
+----
+
+Eventlocation: London (UK)
+
+----
+
+Eventlink: https://ewma.org/ewma-conferences/2024
+
+----
+
+Eventgooglemaps: 
+
+----
+
+Eventtoggle: false
+
+----
+
+Eventpricemember: 
+
+----
+
+Eventpricestudent: 
+
+----
+
+Eventprice: 
+
+----
+
+Text: 
+
+----
+
+Marketingtitle: 
+
+----
+
+Marketingdescription: 
+
+----
+
+Marketingimage: 
+
+----
+
+Uuid: wBFthvHsbqNKbzHc

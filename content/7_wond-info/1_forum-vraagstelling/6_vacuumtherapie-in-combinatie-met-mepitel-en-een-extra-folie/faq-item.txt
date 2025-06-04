@@ -1,0 +1,29 @@
+Title: Vacuümtherapie in combinatie met mepitel en een extra folie
+
+----
+
+Question:
+
+Ik loop momenteel stage en heb een casus waarop ik geen duidelijk antwoord kan vinden en bedenken.
+Het gaat om een patiënt met vacuümtherapie/negatieve druktherapie. We kregen het advies om eerst Mepitel aan te brengen op de sutuur, nadien de folie, dan de foam, dan terug de folie en dan hierop de negatieve druktherapie.
+Nu stelde ik mezelf de vraag waarom werd gekozen om eerst Mepitel te plaatsen?
+
+----
+
+Answer: [{"content":{"text":"<p>Deze techniek is ons niet bekend.<\/p><p>We vermoeden dat er hier sprake is van negatieve druktherapie op een gehechte sutuur na een operatieve ingreep.<br>In dat geval wordt er best gewerkt met specifieke verbanden die daarvoor bedoeld zijn zoals Prevena of Pico.<\/p><p>Om zelf dergelijke verbanden te bricoleren is zeker niet aangewezen, aangezien je nooit hetzelfde effect kan bekomen en je risico\u2019s hebt om bijkomende schade aan te richten.<br>Ons advies is om dit dan ook niet meer op die manier te doen, maar enkel te werken met de specifieke verbanden hiervoor.<\/p>"},"id":"7c274031-b90f-4800-9aab-61a714f7bc1f","isHidden":false,"type":"text"}]
+
+----
+
+Marketingtitle: 
+
+----
+
+Marketingdescription: 
+
+----
+
+Marketingimage: 
+
+----
+
+Uuid: 5XCExufDyZkQbxpJ

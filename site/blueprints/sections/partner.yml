@@ -1,0 +1,11 @@
+type: pages
+headline: Partners
+parent: site.find("partners")
+template: partner
+empty: No entries yet
+layout: cards
+size: small
+image:
+  cover: true
+  ratio: 1/1
+  back: white

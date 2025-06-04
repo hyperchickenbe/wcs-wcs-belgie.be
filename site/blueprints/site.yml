@@ -1,0 +1,46 @@
+title: Site
+
+tabs:
+
+  overview:
+    label: Overview
+    columns:
+
+      - width: 1/2
+        sections:
+          pagesDrafts:
+            extends: sections/pages
+            headline: Drafts
+            status: draft
+            template:
+              - default
+              - toc
+              - faq
+
+          pagesMain:
+            extends: sections/pages
+            headline: Pages /main
+            status: listed
+
+          pagesOther:
+            extends: sections/pages
+            headline: Pages /other
+            status: unlisted
+
+      - width: 1/2
+        sections:
+          events:
+            extends: sections/event
+            headline: Events
+
+          partners:
+            extends: sections/partner
+            headline: Partners
+            layout: table
+            image: false
+
+  company: tabs/company
+
+  analytics: tabs/analytics
+
+  notification: tabs/notification

@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /cloud/
+Sitemap: https://www.wcs-belgie.be/sitemap.xml

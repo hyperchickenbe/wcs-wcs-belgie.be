@@ -1,0 +1,37 @@
+Title: Wondzorg websites
+
+----
+
+Heroheadline: 
+
+----
+
+Text: [{"content":{"text":"<p>Via onderstaande hyperlinks kan je interessante informatie vinden rond wondzorg en aangrenzende domeinen. Ook via <a rel=\"noopener noreferrer\">de logo's van onze partners<\/a> kan u steeds specifieke productinformatie terugvinden.<\/p><p>Ken je zelf nog een interessante website met betrekking tot wondzorg? Laat het ons zeker weten via het <a rel=\"noopener noreferrer\">contactformulier<\/a>.<\/p>"},"id":"f16a7bfe-259c-4799-b243-1841e4a4a748","isHidden":false,"type":"text"},{"content":{"text":"<ul><li>Belgische websites<ul><li><a href=\"https:\/\/www.eduwond.be\/nl\/\" target=\"_blank\" rel=\"noopener noreferrer\">https:\/\/www.eduwond.be\/nl\/<\/a><\/li><li><a href=\"https:\/\/www.wondzorg.net\/\" target=\"_blank\" rel=\"noopener noreferrer\">https:\/\/www.wondzorg.net\/<\/a><\/li><li><a href=\"http:\/\/www.decubitus.be\/\" target=\"_blank\" rel=\"noopener noreferrer\">http:\/\/www.decubitus.be\/<\/a><\/li><li><a href=\"https:\/\/www.podologie.be\/nl\" target=\"_blank\" rel=\"noopener noreferrer\">https:\/\/www.podologie.be\/nl<\/a><\/li><li><a href=\"https:\/\/www.brandwonden.be\/nl\" target=\"_blank\" rel=\"noopener noreferrer\">https:\/\/www.brandwonden.be\/nl<\/a><\/li><li><a href=\"https:\/\/www.vvro.be\/nl\" target=\"_blank\" rel=\"noopener noreferrer\">https:\/\/www.vvro.be\/nl<\/a><\/li><li><a href=\"https:\/\/www.stomavlas.be\/\" target=\"_blank\" rel=\"noopener noreferrer\">https:\/\/www.stomavlas.be\/<\/a><\/li><\/ul><\/li><li>Nederlandse websites<ul><li><a href=\"https:\/\/www.wcs.nl\/\" target=\"_blank\" rel=\"noopener noreferrer\">https:\/\/www.wcs.nl\/<\/a><\/li><li><a href=\"https:\/\/www.startwondverzorging.nl\" target=\"_blank\" rel=\"noopener noreferrer\">https:\/\/www.startwondverzorging.nl<\/a><\/li><li><a href=\"https:\/\/www.nursing.be\/thema\/wondzorg\/\" target=\"_blank\" rel=\"noopener noreferrer\">https:\/\/www.nursing.be\/thema\/wondzorg\/<\/a><\/li><li><a href=\"http:\/\/www.huidziekten.nl\/\" target=\"_blank\" rel=\"noopener noreferrer\">http:\/\/www.huidziekten.nl\/<\/a><\/li><\/ul><\/li><li>Internationale websites<ul><li><a href=\"https:\/\/ewma.org\/\" target=\"_blank\" rel=\"noopener noreferrer\">https:\/\/ewma.org\/<\/a><\/li><li><a href=\"https:\/\/www.epuap.org\/\" target=\"_blank\" rel=\"noopener noreferrer\">https:\/\/www.epuap.org\/<\/a><\/li><li><a href=\"https:\/\/www.woundsinternational.com\/\" target=\"_blank\" rel=\"noopener noreferrer\">https:\/\/www.woundsinternational.com\/<\/a><\/li><li><a href=\"https:\/\/www.woundsource.com\/\" target=\"_blank\" rel=\"noopener noreferrer\">https:\/\/www.woundsource.com\/<\/a><\/li><li><a href=\"https:\/\/www.wounds-uk.com\/\" target=\"_blank\" rel=\"noopener noreferrer\">https:\/\/www.wounds-uk.com\/<\/a><\/li><li><a href=\"https:\/\/woundheal.org\/\" target=\"_blank\" rel=\"noopener noreferrer\">https:\/\/woundheal.org\/<\/a><\/li><li><a href=\"https:\/\/www.woundcare-today.com\/index.php\" target=\"_blank\" rel=\"noopener noreferrer\">https:\/\/www.woundcare-today.com\/index.php<\/a><\/li><li><a href=\"https:\/\/www.woundcare.ie\/\" target=\"_blank\" rel=\"noopener noreferrer\">https:\/\/www.woundcare.ie\/<\/a><\/li><li><a href=\"https:\/\/www.woundsme.com\/\" target=\"_blank\" rel=\"noopener noreferrer\">https:\/\/www.woundsme.com\/<\/a><\/li><li><a href=\"https:\/\/www.apwca.org\/\" target=\"_blank\" rel=\"noopener noreferrer\">https:\/\/www.apwca.org\/<\/a><\/li><li><a href=\"https:\/\/aawconline.memberclicks.net\/wound-care-links\" target=\"_blank\" rel=\"noopener noreferrer\">https:\/\/aawconline.memberclicks.net\/wound-care-links<\/a><\/li><li><a href=\"https:\/\/www.woundsaustralia.com.au\/\" target=\"_blank\" rel=\"noopener noreferrer\">https:\/\/www.woundsaustralia.com.au\/<\/a><\/li><li><a href=\"https:\/\/www.woundscanada.ca\/\" target=\"_blank\" rel=\"noopener noreferrer\">https:\/\/www.woundscanada.ca\/<\/a><\/li><li><a href=\"https:\/\/www.hmpgloballearningnetwork.com\/site\/wounds\" target=\"_blank\" rel=\"noopener noreferrer\">https:\/\/www.hmpgloballearningnetwork.com\/site\/wounds<\/a><\/li><li><a href=\"https:\/\/www.linkforwoundhealing.info\/\" target=\"_blank\" rel=\"noopener noreferrer\">https:\/\/www.linkforwoundhealing.info\/<\/a><\/li><li><a href=\"http:\/\/phlebologybenelux.org\/\" rel=\"noopener noreferrer\">http:\/\/phlebologybenelux.org\/<\/a><\/li><\/ul><\/li><li>Nuttige websites niet wondzorg gebonden<ul><li><a href=\"https:\/\/www.bvvs.be\/\" target=\"_blank\" rel=\"noopener noreferrer\">https:\/\/www.bvvs.be\/<\/a><\/li><\/ul><\/li><\/ul>"},"id":"b8b23f6f-f4cf-4789-911c-97a689d82c84","isHidden":false,"type":"list"}]
+
+----
+
+Cover: 
+
+----
+
+Marketingtitle: 
+
+----
+
+Marketingdescription: 
+
+----
+
+Marketingimage: 
+
+----
+
+Images: 
+
+----
+
+Files: 
+
+----
+
+Uuid: m1Fx8LJ21ttTGpn6

@@ -1,0 +1,53 @@
+Title: Landelijk Decubitus Congres 'Druk'
+
+----
+
+Eventheadline: 
+
+----
+
+Eventtype: Decubitus Nederland
+
+----
+
+Eventfrom: 2023-09-27
+
+----
+
+Eventto: 2023-09-28
+
+----
+
+Eventlocation: Abdij Rolduc Kerkrade (Nederland)
+
+----
+
+Eventlink: https://decubitus-nederland.nl/
+
+----
+
+Eventgooglemaps: 
+
+----
+
+Eventtoggle: false
+
+----
+
+Text: 
+
+----
+
+Marketingtitle: 
+
+----
+
+Marketingdescription: 
+
+----
+
+Marketingimage: 
+
+----
+
+Uuid: mvaZQh6233d0IvMO

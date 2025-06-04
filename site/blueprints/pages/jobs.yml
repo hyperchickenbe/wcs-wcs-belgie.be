@@ -1,0 +1,52 @@
+title: Jobs
+
+options:
+  duplicate: false
+  delete: false
+
+tabs:
+
+  vacancies:
+    label: Vacancies
+    columns:
+
+      - width: 2/3
+        sections:
+          vacancies:
+            extends: sections/vacancies
+            headline: Open positions
+            layout: table
+            image: false
+
+      - width: 1/3
+        sections:
+          pages:
+            extends: sections/pages
+            headline: Success
+            template: success
+            max: 1
+
+  content:
+    label: Content
+    columns:
+
+      - width: 2/3
+        sections:
+          hero:
+            extends: sections/hero
+            fields:
+              heroGroup: false
+              heroLinkText: false
+              heroLabel: false
+              heroSubHeading: false
+              heroLink: false
+              heroCover: false
+          careers:
+            extends: sections/careers
+            fields:
+              careersGroup: false
+              careersLine: false
+
+  form: tabs/form-application
+
+  marketing: tabs/marketing

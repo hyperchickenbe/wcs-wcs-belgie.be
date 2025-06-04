@@ -1,0 +1,65 @@
+Title: Workshop Compressietherapie
+
+----
+
+Eventheadline: 
+
+----
+
+Eventtype: Eduwond event
+
+----
+
+Eventfrom: 2024-12-05
+
+----
+
+Eventto: 
+
+----
+
+Eventlocation: Brugge
+
+----
+
+Eventlink: 
+
+----
+
+Eventgooglemaps: 
+
+----
+
+Eventtoggle: false
+
+----
+
+Eventpricemember: 
+
+----
+
+Eventpricestudent: 
+
+----
+
+Eventprice: 
+
+----
+
+Text: 
+
+----
+
+Marketingtitle: 
+
+----
+
+Marketingdescription: 
+
+----
+
+Marketingimage: 
+
+----
+
+Uuid: KeW7IFlV0YBP4uik

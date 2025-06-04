@@ -1,0 +1,15 @@
+label: Documents
+columns:
+
+  - width: 1/2
+    sections:
+      documentInfo:
+        label: Info
+        type: info
+        text: Files are automatically listed at the bottom of the page.
+      documents:
+        headline: Documents
+        type: files
+        template: document
+        help: Only PDF files are allowed.
+        empty: No entries yet

@@ -1,0 +1,25 @@
+Title: Box
+
+----
+
+Heroheadline: 
+
+----
+
+Text: [{"content":{"boxtype":"info","text":"<p>Info<\/p>"},"id":"a47dd9ed-2ed0-4f6d-be1d-f4cd1294b8b1","isHidden":false,"type":"box"},{"content":{"boxtype":"success","text":"<p>Success<\/p>"},"id":"fb44ec4a-c870-4da4-8012-5d68ea9cb220","isHidden":false,"type":"box"},{"content":{"boxtype":"warning","text":"<p>Warning<\/p>"},"id":"11c3e00a-b768-4cc7-89e2-10d885595508","isHidden":false,"type":"box"},{"content":{"boxtype":"alert","text":"<p>Alert<\/p>"},"id":"103bb355-4f1b-4ff6-a314-f14df6125a8b","isHidden":false,"type":"box"}]
+
+----
+
+Marketingtitle: 
+
+----
+
+Marketingdescription: 
+
+----
+
+Marketingimage: 
+
+----
+
+Uuid: juko9lyXxYUQd9Gy

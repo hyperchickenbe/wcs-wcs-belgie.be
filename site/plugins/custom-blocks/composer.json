@@ -1,0 +1,12 @@
+{
+  "name": "yvw/custom-blocks",
+  "description": "Custom blocks",
+  "version": "1.0.0",
+  "license": "MIT",
+  "authors": [
+      {
+          "name": "Yanick Van Weydeveldt",
+          "email": "yanick@vanweydeveldt.com"
+      }
+  ]
+}

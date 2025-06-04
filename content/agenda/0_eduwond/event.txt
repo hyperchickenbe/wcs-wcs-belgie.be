@@ -1,0 +1,65 @@
+Title: Wondsymposium Eduwond
+
+----
+
+Eventheadline: Een wereld zonder wonden: gewoon een kwestie van preventie?
+
+----
+
+Eventtype: Eduwond
+
+----
+
+Eventfrom: 2024-04-16
+
+----
+
+Eventto: 
+
+----
+
+Eventlocation: Gent
+
+----
+
+Eventlink: 
+
+----
+
+Eventgooglemaps: 
+
+----
+
+Eventtoggle: false
+
+----
+
+Eventpricemember: 
+
+----
+
+Eventpricestudent: 
+
+----
+
+Eventprice: 
+
+----
+
+Text: 
+
+----
+
+Marketingtitle: 
+
+----
+
+Marketingdescription: 
+
+----
+
+Marketingimage: 
+
+----
+
+Uuid: 9ZXNtd9subFutjTP

@@ -1,0 +1,25 @@
+Title: Over Ons
+
+----
+
+Heroheadline: Over ons
+
+----
+
+Text: [{"content":{"level":"h2","text":"Inleiding"},"id":"e579992f-3c02-4688-b606-4ea3186f7610","isHidden":false,"type":"heading"},{"content":{"text":"<p>WCS België is een vereniging zonder winstoogmerk. De vereniging is op basis van vrijwilligheid samengesteld uit een aantal professionele leden, elk met een gedegen competentie op het vlak van wondzorg. Via de vereniging wensen deze professionelen hun kennis te delen met andere zorgverleners langs de kanalen die door de vzw aangeboden worden.</p><p>WCS België vzw is lid van de Algemene Unie van Verpleegkundigen België (AUVB).  De Belgische WCS werkt nauw samen met de Nederlandse WCS: het Kenniscentrum Wondzorg (NL).</p><p>WCS heeft contacten met andere verenigingen die zich bezighouden met wondzorg in de ruime zin van dat begrip. WCS onderhoudt tevens nauwe contacten met diverse bedrijven in het brede wondzorgdomein en stelt zich hierbij neutraal op.</p>"},"id":"e26e180a-2a03-402d-bb3e-5b3c72b127b6","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"Waar staat WCS voor?"},"id":"6930fd9b-0cde-4b37-802a-f312fd6091f7","isHidden":false,"type":"heading"},{"content":{"text":"<ul><li>Opleiding in samenwerking met opleidingscentra</li><li>Tweejaarlijks wondzorgcongres (afwissselend met het congres van WCS Nederland)</li><li>Werkgroepen bestaande uit professionele leden</li><li>Regionale overlegplatformen voor wondzorgverpleegkundigen uit ziekenhuizen en thuiszorginstellingen</li><li>Wondzorgevents over verschillende thema's</li><li>Informatieverspreiding via de elektronische nieuwsbrief voor wie zich aanmeldt. Deze brief komt van het Kenniscentrum Wondzorg (NL).</li><li>Een wondzorgtijdschrift dat per kwartaal verschijnt bij het Kenniscentrum Wondzorg (NL) en waarop men zich kan abonneren.</li></ul>"},"id":"06e5ceb2-28c7-43c4-aa47-ed7e8d4c2535","isHidden":false,"type":"list"},{"content":{"level":"h2","text":"Wie zijn wij?"},"id":"e2721b2e-184b-4ca5-8ebe-6b5ab51c43cc","isHidden":false,"type":"heading"},{"content":{"level":"h3","text":"Bestuur WCS België vzw"},"id":"f3491926-6ec9-4e6c-88d3-158e968aaaa7","isHidden":false,"type":"heading"},{"content":{"text":"| Functie | Naam | Instelling | Plaats |\n| ------- | ---- | ---- | ---- |\n| Voorzitter | [Kristel Schols](mailto:kristel.schols@limburg.wgk.be)| [Wit-Gele Kruis](https://www.witgelekruis.be/voor-zorgpartners/referentiedomeinen-binnen-wgk-limburg/referentiedomein-wondzorg) | Limburg |\n| Ondervoorzitter | [Kris Bernaerts](mailto:kris.bernaerts@uzleuven.be) | [UZ Leuven](https://www.uzleuven.be/nl/decubitus) | Leuven |\n| Penningmeester | [Roald Nelissen](mailto:roald.nelissen@pxl.be) | [Hogeschool PXL](https://www.pxl.be/Pub/Departementen/PXL-Healthcare.html) | Hasselt |\n| Secretaris| [Michiel Claes](mailto:michiel.claes@noorderhart.be) | [Noorderhart](https://www.noorderhart.be/nl/mariaziekenhuis/zorgoverzicht/specialismen-centra-diensten/wondzorgraadpleging/verpleegkundig-specialisten-en-consulenten/396/) | Pelt |\n| Bestuurslid | [Eric Roovers](mailto:Eric.Roovers@zna.be) | [ZNA](https://www.zna.be/nl) | Antwerpen |\n| Bestuurslid | [Adinda Toppets](mailto:Adinda.Toppets@PXL.BE) | [Hogeschool PXL](https://www.pxl-next.be/opleidingen/woundmanagement) | Hasselt |"},"id":"24f28aa0-1a5c-4648-ae78-96ad7bde336b","isHidden":false,"type":"markdown"},{"content":{"location":"kirby","image":["file://4E2Ob5o3jCFDM9Il"],"src":"","alt":"","caption":"v.l.n.r. Eric Roovers - Valerie Hanssens (ex-bestuurder) - Roald Nelissen - Kristel Schols - Kris Bernaerts - Adinda Toppets - Michiel Claes","link":"","ratio":"","crop":"false"},"id":"092893d2-bad5-4d8c-b0ac-8c0a1b9ce2aa","isHidden":false,"type":"image"},{"content":{"level":"h3","text":"Bestuur WCS Nederland"},"id":"2125babb-0f63-4e27-87c7-cbf3b2ffba26","isHidden":false,"type":"heading"},{"content":{"text":"| Functie | Naam |\n| ------- | ---- |\n| Voorzitter | René Baljon |\n| Secretaris | Dick van Duijn |\n| Penningmeester | Conny Keijzer |"},"id":"cb4bfe22-4b63-48d5-b960-76731ea654ce","isHidden":false,"type":"markdown"},{"content":{"level":"h2","text":"Gegevens vzw"},"id":"3619681a-31d0-41e9-a7e0-3002ecb7e314","isHidden":false,"type":"heading"},{"content":{"text":"<ul><li><strong>Naam</strong>: Woundcare Consultant Society vzw</li><li><strong>Adres van de zetel</strong>: De Rieten 14, 3550 Heusden-Zolder</li><li><strong>Ondernemingsnummer</strong>: 0443 256 247</li><li><strong>Rekeningnummer</strong>: IBAN BE66777591396043 - BIC GKCCBEBB</li><li><strong>Contact</strong>: secretaris@wcs-belgie.be </li></ul>"},"id":"332804a3-9f1e-4764-9138-d38820684fa7","isHidden":false,"type":"list"},{"content":{"text":"<p>Ons privacybeleid kan u <a href=\"/privacyverklaring\" rel=\"noopener noreferrer\">hier lezen</a>.</p>"},"id":"9325c5fd-c0eb-4013-a184-e8cd9e7f48b0","isHidden":false,"type":"text"}]
+
+----
+
+Marketingtitle: 
+
+----
+
+Marketingdescription: 
+
+----
+
+Marketingimage: 
+
+----
+
+Uuid: 4SCe7usBqrBxkmff

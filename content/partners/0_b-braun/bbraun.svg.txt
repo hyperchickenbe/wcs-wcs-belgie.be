@@ -1,0 +1,9 @@
+Sort: 1
+
+----
+
+Uuid: CRKPq1seJYbNyg4z
+
+----
+
+Template: image-logo

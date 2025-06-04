@@ -1,0 +1,37 @@
+Title: WCS congres 2018
+
+----
+
+Heroheadline: 
+
+----
+
+Text: [{"content":{"text":"<p>Dit WCS congres vond plaats op 20 november 2018 met als titel '<strong>Wondzorg met impact<\/strong>'.<\/p><p>Behandelde topics van dit congres waren:<\/p>"},"id":"f9087218-11c8-465b-8a02-861e49087f78","isHidden":false,"type":"text"},{"content":{"text":"<ul><li><strong>Algemene principes van huidzorg<\/strong><ul><li>Prof. Dr. J. Kottner<\/li><li>Scientific Director, Clinical Research Center for Hair and Skin Science, &nbsp;Charit\u00e9-Universit\u00e4tsmedizin Berlin<\/li><\/ul><\/li><li><strong>Impact van peroperatieve zorg op het voorkomen van postoperatieve wondinfecties<\/strong><ul><li>Prof. Dr. A. Schuermans,<\/li><li>Ziekenhuishygi\u00ebnist, UZ Leuven<\/li><\/ul><\/li><li><strong>Stomazorg: eerst de wonde of het stoma?<\/strong><ul><li>Mevr. V. Hanssens<\/li><li>Verpleegkundig specialist wondzorg, UZ Brussel<\/li><\/ul><\/li><li><strong>Kiezen van het juiste wondzorgproduct: evident(ie) of niet?<\/strong><ul><li>Dhr. S. Smet<\/li><li>Verpleegkundig specialist wondzorg, UZ Gent<\/li><\/ul><\/li><li><strong>Preventie: \u2018ten voeten uit\u2019<\/strong><ul><li>Dhr. P. Borgions<\/li><li>Podoloog en biomechanical expert, Podologisch centrum Rotselaar en Genk<\/li><\/ul><\/li><li><strong>Hydradenitis suppurativa<\/strong><ul><li>Dr. A. Bervoets<\/li><li>Dermatoloog, UZ Antwerpen<\/li><\/ul><\/li><li><strong>Huidzorg bij wondproblemen: differentieel diagnose<\/strong><ul><li>Dr. M. Bonny<\/li><li>Dermatoloog, Veneroloog, AZ Groeninge Kortrijk<\/li><\/ul><\/li><li><strong>Impact van debrideren en chirurgische wondsluiting: wanneer een noodzaak?<\/strong><ul><li>Dr. J. Van Thielen<\/li><li>Plastisch Chirurg, ZNA<\/li><\/ul><\/li><li><strong>Compressietherapie: kort of lang?<\/strong><ul><li>Mevr. J. Spinnael<\/li><li>Verpleegkundig specialist wondzorg, UZ Brussel<\/li><\/ul><\/li><li><strong>Impact en focus van wondzorg tijdens de terminale of palliatieve levensfase<\/strong><ul><li>Dhr. L. Decavele<\/li><li>Verpleegkundig specialist wondzorg, OLV Aalst<\/li><\/ul><\/li><\/ul>"},"id":"78c8174d-000e-46f8-9a56-225a5cdbdc3f","isHidden":false,"type":"list"},{"content":{"text":"<p>Deze presentaties zijn niet meer ter beschikking op de website.<\/p>"},"id":"f6cdbcea-c95a-4ee1-9583-09d723d109e7","isHidden":false,"type":"text"}]
+
+----
+
+Cover: 
+
+----
+
+Marketingtitle: 
+
+----
+
+Marketingdescription: 
+
+----
+
+Marketingimage: 
+
+----
+
+Images: 
+
+----
+
+Files: 
+
+----
+
+Uuid: HLBeFxQha8gNbxQF

@@ -1,0 +1,53 @@
+Title: EWMA Congres 'Wound care from art to science'
+
+----
+
+Eventheadline: 
+
+----
+
+Eventtype: EWMA
+
+----
+
+Eventfrom: 2023-05-03
+
+----
+
+Eventto: 2023-05-05
+
+----
+
+Eventlocation: Milaan (Italië)
+
+----
+
+Eventlink: https://ewma.org/ewma-conferences/2023
+
+----
+
+Eventgooglemaps: 
+
+----
+
+Eventtoggle: false
+
+----
+
+Text: 
+
+----
+
+Marketingtitle: 
+
+----
+
+Marketingdescription: 
+
+----
+
+Marketingimage: 
+
+----
+
+Uuid: LqCuu3TFqoIS1GWP

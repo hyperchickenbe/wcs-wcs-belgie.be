@@ -1,0 +1,65 @@
+Title: Masterclass Eduwond
+
+----
+
+Eventheadline: Preventie en aanpak van wondinfectie
+
+----
+
+Eventtype: Eduwond
+
+----
+
+Eventfrom: 2024-05-16
+
+----
+
+Eventto: 
+
+----
+
+Eventlocation: Gent
+
+----
+
+Eventlink: 
+
+----
+
+Eventgooglemaps: 
+
+----
+
+Eventtoggle: false
+
+----
+
+Eventpricemember: 
+
+----
+
+Eventpricestudent: 
+
+----
+
+Eventprice: 
+
+----
+
+Text: 
+
+----
+
+Marketingtitle: 
+
+----
+
+Marketingdescription: 
+
+----
+
+Marketingimage: 
+
+----
+
+Uuid: eJ4gU13M6B40qOED

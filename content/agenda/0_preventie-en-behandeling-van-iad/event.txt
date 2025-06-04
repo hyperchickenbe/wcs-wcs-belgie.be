@@ -1,0 +1,53 @@
+Title: Preventie en behandeling van IAD
+
+----
+
+Eventheadline: 
+
+----
+
+Eventtype: WCS Wondevent
+
+----
+
+Eventfrom: 2023-02-13
+
+----
+
+Eventto: 
+
+----
+
+Eventlocation: Noorderhart Mariaziekenhuis
+
+----
+
+Eventlink: 
+
+----
+
+Eventgooglemaps: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2499.3742098287134!2d5.414851515759125!3d51.21218177958765!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c12b377037d0ff%3A0x912cadf2e054d6bf!2sNoorderhart%20Mariaziekenhuis!5e0!3m2!1snl!2sbe!4v1678371614199!5m2!1snl!2sbe
+
+----
+
+Eventtoggle: false
+
+----
+
+Text: [{"content":{"text":"<p>De uitnodiging vindt u via <a href=\"\/agenda\/preventie-en-behandeling-van-iad\/uitnodiging-iad.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">deze link<\/a>. <\/p>"},"id":"1ca0638e-1e74-4ec1-9e11-63318ea2a7c3","isHidden":false,"type":"text"}]
+
+----
+
+Marketingtitle: 
+
+----
+
+Marketingdescription: 
+
+----
+
+Marketingimage: 
+
+----
+
+Uuid: 5BoMhOcll8yGb0ew

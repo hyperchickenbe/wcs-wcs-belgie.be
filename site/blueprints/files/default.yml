@@ -1,0 +1,12 @@
+title: Default
+
+accept:
+  mime: image/jpeg, image/png
+
+columns:
+  - width: 1/2
+    fields:
+      alt: 
+        label: Alternative Text
+        type: text
+        help: Leave empty for decorative images.

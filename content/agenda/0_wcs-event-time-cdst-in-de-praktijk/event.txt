@@ -1,0 +1,65 @@
+Title: TIME in een nieuw jasje: het TIME CDST model
+
+----
+
+Eventheadline: TIME in een nieuw jasje: het TIME CDST model (Leuven)
+
+----
+
+Eventtype: WCS Wondevent
+
+----
+
+Eventfrom: 2024-05-14
+
+----
+
+Eventto: 
+
+----
+
+Eventlocation: UZ Leuven
+
+----
+
+Eventlink: 
+
+----
+
+Eventgooglemaps: 
+
+----
+
+Eventtoggle: true
+
+----
+
+Eventpricemember: 10
+
+----
+
+Eventpricestudent: 10
+
+----
+
+Eventprice: 25
+
+----
+
+Text: [{"content":{"text":"<p>Het TIME-concept werd bijna 20 jaar geleden geïntroduceerd in België. Benieuwd hoe zijn nieuwe jasje eruit ziet en hoe jij dit kan toepassen in je praktijkvoering? Dan zien we je graag op een van onze events in Genk, Leuven of Kortrijk</p><p>Je kan de brochure van het event in Leuven via <a href=\"https://www.wcs-belgie.be/agenda/wcs-event-time-cdst-in-de-praktijk/240514-wondevent_time-cdst_leuven.pdf\" target=\"_blank\" rel=\"noreferrer\">deze link</a> downloaden. Van Harte welkom!</p>"},"id":"51249350-c0a0-43b2-820f-5b014763d8ea","isHidden":false,"type":"text"}]
+
+----
+
+Marketingtitle: 
+
+----
+
+Marketingdescription: 
+
+----
+
+Marketingimage: 
+
+----
+
+Uuid: xkug8lzUR5I54ixe

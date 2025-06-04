@@ -1,0 +1,28 @@
+title: Partners
+
+options:
+  changeStatus: false
+  duplicate: false
+  delete: false
+
+tabs:
+
+  partners:
+    label: Partners
+    columns:
+
+      - width: 1/1
+        sections:
+          partners:
+            extends: sections/partner
+            layout: table
+
+  content:
+    label: Content
+    columns:
+
+      - width: 2/3
+          fields:
+            fallback:
+              label: Fallback
+              type: text

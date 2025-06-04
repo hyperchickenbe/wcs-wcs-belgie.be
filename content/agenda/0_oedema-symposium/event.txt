@@ -1,0 +1,53 @@
+Title: Oedema Symposium
+
+----
+
+Eventheadline: 
+
+----
+
+Eventtype: Oedema
+
+----
+
+Eventfrom: 2023-10-21
+
+----
+
+Eventto: 
+
+----
+
+Eventlocation: UAntwerpen Campus Drie Eiken
+
+----
+
+Eventlink: 
+
+----
+
+Eventgooglemaps: 
+
+----
+
+Eventtoggle: false
+
+----
+
+Text: [{"content":{"text":"<p>Het programma kan u bekijken via <a href=\"https://www.wcs-belgie.be/agenda/oedema-symposium/programma-symposium-2023.pdf\" target=\"_blank\" rel=\"noreferrer\">deze link</a>.</p><p>Inschrijven kan via <a href=\"https://events.uantwerpen.be/event/sessions?id=Oedema_symposium3602292779\" target=\"_blank\" rel=\"noreferrer\">deze link</a>.</p>"},"id":"19f36b67-2818-42db-a875-25b63d065cd8","isHidden":false,"type":"text"}]
+
+----
+
+Marketingtitle: 
+
+----
+
+Marketingdescription: 
+
+----
+
+Marketingimage: 
+
+----
+
+Uuid: aUhCBlGFxj8LAc3b

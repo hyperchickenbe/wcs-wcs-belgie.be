@@ -1,0 +1,71 @@
+*,
+*:after,
+*:before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  list-style: none;
+}
+
+b,
+strong {
+  font-weight: bolder;
+}
+
+img,
+picture,
+video {
+  display: block;
+  width: 100%;
+}
+
+audio,
+canvas,
+iframe,
+img,
+svg,
+video {
+   vertical-align: middle; /* remove gap */
+}
+
+pre,
+code,
+kbd {
+  font-family: monospace;
+  font-size: var(--text-base);
+}
+
+input,
+button,
+textarea,
+select {
+  font: inherit;
+}
+
+textarea {
+  resize: vertical;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  line-height: var(--leading-none);
+  font-weight: var(--font-bold);
+}

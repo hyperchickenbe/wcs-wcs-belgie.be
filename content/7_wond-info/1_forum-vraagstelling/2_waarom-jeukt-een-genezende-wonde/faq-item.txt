@@ -1,0 +1,28 @@
+Title: Waarom jeukt een genezende wonde?
+
+----
+
+Question:
+
+Kan u verklaren waarom een gezond, genezende wonde jeukt?
+Blijkbaar door een vochttekort, maar hoe komt het dat er een vochttekort rond de wonde ontstaat als een wonde aan ‘t genezen is?
+
+----
+
+Answer: [{"content":{"text":"<p>Genezende wonden jeuken doordat bij het genezingsproces zogeheten jeukzenuwen op de grens van de opperhuid en lederhuid worden geactiveerd. De huid bevat allerlei soorten zenuwen, die gevoelig zijn voor bijvoorbeeld koude, warmte, pijn, harde klappen of lichte druk. Jeukzenuwen reageren al op de kleinste mechanische of chemische invloeden, zoals een vlieg die over je arm loopt of een druppel citroensap die op de huid prikt. Als zoiets gebeurt, informeren de jeukzenuwen de hersenen over een gevoel van jeuk.<\/p><p>Tijdens het genezingsproces delen de cellen in de wondranden zich en bewegen ze de wond in, waar ze zich aan andere cellen hechten en samentrekken. Daarbij trekken ze aan de wondranden, zodat het gat sluit. Als de huidcellen bewegen, worden de jeukzenuwen geactiveerd. Ook chemische stoffen kunnen jeuk activeren. Dat gebeurt ook door de chemische stoffen die de wond uitscheidt doordat de huid ontstoken is.<\/p><p>Krabben bij jeuk is een reflex vanuit het ruggenmerg, waardoor je hand automatisch naar de wond gaat. Het voordeel daarvan is dat het jeuken stopt, wat de activiteit van de jeukzenuwen voor korte tijd remt. Als je de wond echter openkrabt, loop je het risico het genezingsproces te verstoren. Dan duurt het langer voor de wond dicht is en kun je een litteken overhouden.<\/p><p>Jeuk ontstaat in vier stappen:<\/p><p>1: Als de cellen van de genezende wond zich samentrekken, worden jeukzenuwen geactiveerd. Deze laten de hersenen weten dat de wond jeukt.<\/p><p>2: De hersenen registreren jeuk, met krabben tot gevolg. Pijnzenuwen in de wond worden actief en laten de hersenen weten dat het pijn doet.<\/p><p>3: De hersenen krijgen pijnsignalen, en de hypothalamus probeert de pijn te verlichten met behulp van de stof serotonine.<\/p><p>4: Een beetje serotonine gaat met het bloed mee naar de wond. Hier activeert het de jeukzenuwen opnieuw, waardoor het gevoel van jeuk nog eens versterkt wordt.<\/p><p>Tot slot weten we ook dat littekenweefsel inderdaad de neiging om uit te drogen. Deze droge huid kan jeuken en schilferen. Daarom is het zinvol deze goed te hydrateren.<\/p>"},"id":"2ed94d4a-0f24-402a-bb92-2a0d3a8d7c85","isHidden":false,"type":"text"}]
+
+----
+
+Marketingtitle: 
+
+----
+
+Marketingdescription: 
+
+----
+
+Marketingimage: 
+
+----
+
+Uuid: zqaWzlWVOrvuL13t

@@ -1,0 +1,65 @@
+Title: TIME in een nieuw jasje: het TIME CDST model
+
+----
+
+Eventheadline: TIME in een nieuw jasje: het TIME CDST model (Kortrijk)
+
+----
+
+Eventtype: WCS wondevent
+
+----
+
+Eventfrom: 2024-06-20
+
+----
+
+Eventto: 
+
+----
+
+Eventlocation: Kortrijk
+
+----
+
+Eventlink: 
+
+----
+
+Eventgooglemaps: 
+
+----
+
+Eventtoggle: true
+
+----
+
+Eventpricemember: 10
+
+----
+
+Eventpricestudent: 10
+
+----
+
+Eventprice: 25
+
+----
+
+Text: [{"content":{"text":"<p>Het TIME-concept werd bijna 20 jaar geleden geïntroduceerd in België. Benieuwd hoe zijn nieuwe jasje eruit ziet en hoe jij dit kan toepassen in je praktijkvoering? Dan zien we je graag op een van onze events in Genk, Leuven of Kortrijk</p><p>Je kan de brochure voor Kortrijk <a href=\"https://www.wcs-belgie.be/agenda/t-i-m-e-in-een-nieuw-jasje-het-t-i-m-e-cdst-model/240620-wondevent_time-cdst_kortrijk.pdf\" target=\"_blank\" rel=\"noreferrer\">hier raadplegen</a>.</p><p>Op onderstaand plannetje kan je de aula ('t Forum gebouw F) terugvinden.</p>"},"id":"a4be1bb8-0ec4-42fc-8b20-2e4e29aa31c4","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["file://Y1xYpiYIQvB8WPbI"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"4fd1c6c0-ab1a-4630-8b5f-c95345b62bf5","isHidden":false,"type":"image"}]
+
+----
+
+Marketingtitle: 
+
+----
+
+Marketingdescription: 
+
+----
+
+Marketingimage: 
+
+----
+
+Uuid: 6jPxKhC4EQF8ajZ4

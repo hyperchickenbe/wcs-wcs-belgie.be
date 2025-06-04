@@ -1,0 +1,25 @@
+Title: Table
+
+----
+
+Heroheadline: 
+
+----
+
+Text: [{"content":{"text":"| ID          | Size | Description                |\n| ----------- | ---- | -------------------------- |\n| Lectus | 1 TB | Lorem ipsum dolor sit amet |\n| Lectus  | 2 TB | Lorem ipsum dolor sit amet |\n| Lectus  | 3 TB | Lorem ipsum dolor sit amet |"},"id":"d14782dd-1e54-4098-89c5-0a69fba9ecc1","isHidden":false,"type":"markdown"}]
+
+----
+
+Marketingtitle: 
+
+----
+
+Marketingdescription: 
+
+----
+
+Marketingimage: 
+
+----
+
+Uuid: O9yzP8XZ1bwBirhG

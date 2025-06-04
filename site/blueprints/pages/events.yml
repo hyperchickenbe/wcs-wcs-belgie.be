@@ -1,0 +1,47 @@
+title: Events
+
+options:
+  changeStatus: false
+  duplicate: false
+  delete: false
+
+tabs:
+
+  events:
+    label: Events
+    columns:
+
+      - width: 1/1
+        sections:
+          drafts:
+            extends: sections/event
+
+  content:
+    label: Content
+    columns:
+
+      - width: 2/3
+        sections:
+          hero:
+            extends: sections/hero
+            fields:
+              heroGroup: false
+              heroLabel: false
+              heroSubHeading: false
+              heroCover: false
+              heroLinkText: false
+              heroLink: false
+          other:
+            type: fields
+            fields:
+              otherParent:
+                label: Parent
+                type: text
+              otherMore:
+                label: More
+                type: text
+              otherFallback:
+                label: Fallback
+                type: text
+
+  marketing: tabs/marketing

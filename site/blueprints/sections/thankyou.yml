@@ -1,0 +1,22 @@
+type: fields
+fields:
+  thankyouLabel:
+    label: Label
+    type: text
+  thankyouHeadline:
+    label: Headline
+    type: text
+    help: Leave empty to use the page title.
+  thankyouSubHeading:
+    label: Subheading
+    type: text
+  thankyouLinkText:
+    label: Button
+    type: text
+    width: 1/2
+  thankyouLink:
+    label: Link
+    type: select
+    options: query
+    query: site.children.published
+    width: 1/2

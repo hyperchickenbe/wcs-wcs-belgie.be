@@ -1,0 +1,5 @@
+Uuid: FSK1EM75X7YVew4V
+
+----
+
+Template: blocks/image

@@ -1,0 +1,11 @@
+type: fields
+fields:
+  careersLine:
+    type: line
+  careersGroup:
+    label: Careers
+    type: headline
+    numbered: false
+  careersFallback:
+    label: Fallback
+    type: text

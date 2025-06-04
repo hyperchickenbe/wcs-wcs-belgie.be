@@ -1,0 +1,45 @@
+title: Default
+
+status:
+  draft:
+    label: Draft
+  unlisted:
+    label: Unlisted
+  listed:
+    label: Public
+
+tabs:
+
+  content:
+    label: Content
+    columns:
+
+      - width: 2/3
+        sections:
+          hero:
+            extends: sections/hero
+            fields:
+              heroGroup: false
+              heroCover: false
+              heroLabel: false
+              heroSubHeading: false
+              heroLinkText: false
+              heroLink: false
+          text:
+            extends: sections/text
+            fields:
+              textLine: false
+              textGroup: false
+
+      - width: 1/3
+        sections:
+          images:
+            extends: sections/images
+          filesInline:
+            extends: sections/files
+            headline: Files
+            template: document-inline
+
+  documents: tabs/documents
+
+  marketing: tabs/marketing

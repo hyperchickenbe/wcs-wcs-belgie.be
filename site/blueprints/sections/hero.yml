@@ -1,0 +1,38 @@
+type: fields
+fields:
+  heroGroup:
+    label: Hero
+    type: headline
+    numbered: false
+  heroCover:
+    label: Cover
+    type: files
+    layout: list
+    max: 1
+    uploads:
+      template: cover-image
+    image:
+      cover: true
+    query: page.images.template('cover-image')
+    empty: No image selected
+  heroLabel:
+    label: Label
+    type: text
+  heroHeadline:
+    label: Headline
+    type: text
+    placeholder: "{{ page.title }}"
+    help: Leave empty to use the page title.
+  heroSubHeading:
+    label: Subheading
+    type: text
+  heroLinkText:
+    label: Button
+    type: text
+    width: 1/2
+  heroLink:
+    label: Link
+    type: select
+    options: query
+    query: site.children.published
+    width: 1/2

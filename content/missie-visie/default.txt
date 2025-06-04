@@ -1,0 +1,25 @@
+Title: Missie en Visie
+
+----
+
+Heroheadline: 
+
+----
+
+Text: [{"content":{"level":"h2","text":"Missie"},"id":"ac3f0617-a47c-496d-9665-423ff703c9fe","isHidden":false,"type":"heading"},{"content":{"text":"<p>WCS Belgi\u00eb vzw is een vereniging van zorgverleners die gespecialiseerd zijn in preventie en behandeling van wonden en stomazorg. Onze leden zetten zich op vrijwillige basis in om het niveau van wondzorg en stomazorg te verhogen. Dit aan de hand van de laatste wetenschappelijke evidentie.<\/p><p>Vanuit onze klinische expertise brengen we zorgverleners en bedrijven samen met aandacht voor kennisdeling, netwerking, innovatie en onderzoek, zodat iedere zorgverlener volgens bevoegdheid een kwalitatieve zorg kan bieden aan een pati\u00ebnt met een wonde. <\/p>"},"id":"3c906110-a84c-46ea-9e06-858d937bd985","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"Visie"},"id":"2d9d68b5-0ad9-4ef8-b06d-1b04146d1c7e","isHidden":false,"type":"heading"},{"content":{"text":"<p>WCS Belgi\u00eb vzw wil zich profileren als wondzorgvereniging in Belgi\u00eb door expertise in de volgende vier wondzorgdomeinen:<\/p>"},"id":"54c2eb76-f8a8-4468-b176-235444f44ae1","isHidden":false,"type":"text"},{"content":{"level":"h4","text":"<strong>Klinische expertise en wetenschappelijk onderzoek<\/strong>"},"id":"1c0a936f-0dc9-41e0-bd88-ab6dc70a7fc8","isHidden":false,"type":"heading"},{"content":{"text":"<ul><li>Participatie aan praktijkgericht onderzoek<\/li><li>Uitwisseling van klinische expertise<ul><li>Organisatie van intervisiemomenten voor werkgroepleden<\/li><li>Organisatie van regionale overlegplatformen <\/li><li>Uitwerking van richtlijnen i.v.m. wondzorg en stomazorg<\/li><li>Vertaling en publicatie van praktische richtlijnen<\/li><li>Publicatie van wondzorgcasu\u00efstiek<\/li><\/ul><\/li><\/ul>"},"id":"61b015c2-af76-4ab5-b57b-63050f6a0b0e","isHidden":false,"type":"list"},{"content":{"level":"h4","text":"<p><strong>Organisatie van opleidingen en educatieve programma\u2019s<\/strong><\/p>"},"id":"e1c5281e-4359-4666-8592-c1cf0a4863e6","isHidden":false,"type":"heading"},{"content":{"text":"<ul><li>Wondzorgopleidingen in samenwerking met hogescholen en universiteiten<ul><li>Postgraduaat woundmanagement&nbsp;<\/li><li>Opleidingen referentieverpleegkundige wondzorg<\/li><\/ul><\/li><li>Wondzorgcongres<\/li><li>Wondzorgevents<\/li><\/ul>"},"id":"2f670e42-e2d1-4084-9034-a6252e4581aa","isHidden":false,"type":"list"},{"content":{"level":"h4","text":"<p><strong>Netwerking en samenwerking<\/strong><\/p>"},"id":"ab85785f-d422-4463-8df6-32150e9e3985","isHidden":false,"type":"heading"},{"content":{"text":"<ul><li>Samenwerking met <a href=\"https:\/\/www.wcs.nl\/\" target=\"_blank\" rel=\"noopener noreferrer\">WCS Nederland<\/a><\/li><li>Samenwerking met andere wondzorgverenigingen (<a href=\"https:\/\/www.wondzorg.net\/\" target=\"_blank\" rel=\"noopener noreferrer\">CNC<\/a>, <a href=\"https:\/\/www.eduwond.be\/nl\/\" target=\"_blank\" rel=\"noopener noreferrer\">Eduwond<\/a> \u2026)<\/li><li>Vorming van een ondersteunend netwerk voor wondzorgverpleegkundigen<\/li><li>Netwerking met de industrie<\/li><li>Communicatie via digitale media<\/li><\/ul>"},"id":"50828468-4731-4065-b574-8a9d759b4b29","isHidden":false,"type":"list"},{"content":{"level":"h4","text":"<p><strong>Adviesverlening naar organisaties en overheid<\/strong><\/p>"},"id":"41b765cb-6234-4098-ac94-13e69c86ecb8","isHidden":false,"type":"heading"},{"content":{"text":"<ul><li>Gesprekspartner voor adviesraden (<a href=\"https:\/\/www.riziv.fgov.be\/nl\/professionals\/Paginas\/default.aspx\" target=\"_blank\" rel=\"noopener noreferrer\">RIZIV<\/a>, <a href=\"https:\/\/auvb-ugib-akvb.be\/\" target=\"_blank\" rel=\"noopener noreferrer\">AUVB<\/a>, <a href=\"https:\/\/kce.fgov.be\/nl\" target=\"_blank\" rel=\"noopener noreferrer\">KCE<\/a> \u2026)<\/li><\/ul>"},"id":"1f3c290e-b341-4dc6-b3cf-e4a902581685","isHidden":false,"type":"list"}]
+
+----
+
+Marketingtitle: 
+
+----
+
+Marketingdescription: 
+
+----
+
+Marketingimage: 
+
+----
+
+Uuid: gtY3KgS66o8p51fO

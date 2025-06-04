@@ -1,0 +1,41 @@
+<?php return array(
+    'root' => array(
+        'pretty_version' => 'dev-master',
+        'version' => 'dev-master',
+        'type' => 'library',
+        'install_path' => __DIR__ . '/../../',
+        'aliases' => array(),
+        'reference' => 'd65087e686585a10b387bca9d1c064f4f8102298',
+        'name' => 'mzur/kirby-uniform',
+        'dev' => false,
+    ),
+    'versions' => array(
+        'mzur/kirby-flash' => array(
+            'pretty_version' => 'v2.0.0',
+            'version' => '2.0.0.0',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../mzur/kirby-flash',
+            'aliases' => array(),
+            'reference' => 'a48131bad4a5178a883223f2f83a6a59d8f5cc6a',
+            'dev_requirement' => false,
+        ),
+        'mzur/kirby-form' => array(
+            'pretty_version' => 'v3.1.0',
+            'version' => '3.1.0.0',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../mzur/kirby-form',
+            'aliases' => array(),
+            'reference' => '38ce34bdf51079e099d71131aafbc1a543bd7ea4',
+            'dev_requirement' => false,
+        ),
+        'mzur/kirby-uniform' => array(
+            'pretty_version' => 'dev-master',
+            'version' => 'dev-master',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../../',
+            'aliases' => array(),
+            'reference' => 'd65087e686585a10b387bca9d1c064f4f8102298',
+            'dev_requirement' => false,
+        ),
+    ),
+);

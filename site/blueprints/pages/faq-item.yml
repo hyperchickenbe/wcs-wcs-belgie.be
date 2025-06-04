@@ -1,0 +1,43 @@
+title: FAQ
+
+status:
+  draft:
+    label: Draft
+  listed:
+    label: Public
+
+tabs:
+
+  content:
+    label: Content
+    columns:
+
+      - width: 2/3
+        sections:
+          fields:
+            type: fields
+            fields:
+              question:
+                label: Question
+                type: textarea
+                size: small
+                buttons: false
+              answer:
+                type: blocks
+                fieldsets:
+                  text:
+                    label: Text
+                    type: group
+                    fieldsets:
+                      - heading
+                      - text
+                      - list
+                      - box
+                  media:
+                    label: Media
+                    type: group
+                    fieldsets:
+                      - image
+                      - video
+
+  marketing: tabs/marketing

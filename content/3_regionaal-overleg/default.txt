@@ -1,0 +1,25 @@
+Title: Regionaal overleg
+
+----
+
+Heroheadline: 
+
+----
+
+Text: [{"content":{"text":"<p>Lijkt het engagement als WCS-werkgroeplid jou een stapje te ver? Maar wil je je kennis in de wondzorg toch aftoetsen en delen met andere collega's in de wondzorg? Of je netwerk binnen het Vlaamse-Wondzorgland uitbreiden?</p><p>Dan is het regionaal overlegplatform misschien wel iets voor jou! Jaarlijks worden twee tot drie overlegmomenten of intervisies georganiseerd voor wondzorgexperts uit ziekenhuizen en thuiszorginstellingen. Tijdens deze intervisies kan je bespreken en aftoetsen waar je mee bezig bent, of je kennis en ervaringen delen met je collega's. Het is dus geen specifieke opleiding of vergadering met een agenda of een verslag, maar wel een moment waarop je vrijblijvend kan leren van elkaar.</p><p>Er worden regionale overlegmomenten voorzien enerzijds voor de regio Limburg/Antwerpen/Vlaams-Brabant en anderzijds voor de regio Brussel/Oost-Vlaanderen/West Vlaanderen.</p><p>Heb je interesse hiervoor? Neem dan contact met een van de <a href=\"/over-ons\" rel=\"noreferrer\">bestuursleden </a>of via het <a href=\"/contact\" rel=\"noreferrer\">contactformulier</a>.</p>"},"id":"6565a07c-058c-4a96-aa71-b804a1b4dbfb","isHidden":false,"type":"text"}]
+
+----
+
+Marketingtitle: 
+
+----
+
+Marketingdescription: 
+
+----
+
+Marketingimage: 
+
+----
+
+Uuid: G9RvVeoDhQdRJReM

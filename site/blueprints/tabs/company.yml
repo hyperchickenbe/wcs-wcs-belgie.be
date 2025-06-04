@@ -1,0 +1,81 @@
+label: Company
+columns:
+
+  - width: 2/3
+    fields:
+      logoGroup:
+        label: Logo
+        type: headline
+        numbered: false
+      logoColor:
+        width: 1/2
+        label: Color
+        type: files
+        uploads: false
+        layout: list
+        size: medium
+        image:
+          cover: true
+        empty: No entries yet
+      logoNeutral:
+        width: 1/2
+        label: Neutral
+        type: files
+        uploads: false
+        layout: list
+        size: medium
+        image:
+          cover: true
+        empty: No entries yet
+      generalGLine:
+        type: line
+      generalGroup:
+        label: General
+        type: headline
+        numbered: false
+      generalType:
+        label: Type
+        type: text
+      generalName:
+        label: Name
+        type: text
+      generalTagline:
+        label: Tagline
+        type: text
+
+  - width: 1/3
+    sections:
+      image:
+        headline: Images
+        type: files
+        layout: list
+        template: image-icon
+        empty: No entries yet
+        help: Only SVG images are allowed.
+
+  - width: 1/2
+    fields:
+      socialLine:
+        type: line
+      socialGroup:
+        label: Social
+        type: headline
+        numbered: false
+      social:
+        label: Profiles
+        type: structure
+        columns:
+          platform: true
+        fields:
+          logo:
+            extends: fields/template/image-logo
+            layout: list
+            width: 1/2
+          platform:
+            label: Platform
+            type: text
+            width: 1/2
+          url:
+            label: URL
+            type: url
+            width: 1/1

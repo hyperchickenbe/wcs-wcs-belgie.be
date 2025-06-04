@@ -1,0 +1,9 @@
+Sort: 1
+
+----
+
+Uuid: h26B1exJk1bv2Y1n
+
+----
+
+Template: image-logo

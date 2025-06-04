@@ -1,0 +1,9 @@
+Sort: 1
+
+----
+
+Uuid: wB2F54CiK19tuO6v
+
+----
+
+Template: image-logo

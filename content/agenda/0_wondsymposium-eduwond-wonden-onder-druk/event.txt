@@ -1,0 +1,65 @@
+Title: Wondtopic Eduwond: Wonden onder druk
+
+----
+
+Eventheadline: Wonden onder druk
+
+----
+
+Eventtype: Eduwond
+
+----
+
+Eventfrom: 2025-04-24
+
+----
+
+Eventto: 
+
+----
+
+Eventlocation: Gent
+
+----
+
+Eventlink: https://www.eduwond.be/nl/wondevents/wondtopic-wonden-onder-druk/inschrijven/
+
+----
+
+Eventgooglemaps: 
+
+----
+
+Eventtoggle: false
+
+----
+
+Eventpricemember: 
+
+----
+
+Eventpricestudent: 
+
+----
+
+Eventprice: 
+
+----
+
+Text: [{"content":{"text":"<p>Meer info kan u vinden in <a href=\"https://www.wcs-belgie.be/media/pages/agenda/wondsymposium-eduwond-wonden-onder-druk/8fd659e291-1742210976/flyer-eduwond-wondtopic-2025.pdf\" rel=\"noreferrer\">deze flyer</a>.</p>"},"id":"585643c5-c384-4e99-be7c-484efc7cd0dd","isHidden":false,"type":"text"}]
+
+----
+
+Marketingtitle: 
+
+----
+
+Marketingdescription: 
+
+----
+
+Marketingimage: 
+
+----
+
+Uuid: sWg3mH3ffju4eegO

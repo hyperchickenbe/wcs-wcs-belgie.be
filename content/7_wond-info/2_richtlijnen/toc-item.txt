@@ -1,0 +1,37 @@
+Title: Richtlijnen
+
+----
+
+Heroheadline: 
+
+----
+
+Text: [{"content":{"text":"<p>Op deze pagina vind je richtlijnen, brochures of poster, opgesteld door WCS België. </p><p>Daarnaast verwijzen we jou graag naar enkele andere bronnen met belangrijke internationale wondzorgrichtlijnen. </p>"},"id":"27540094-cb42-435f-96c9-1b52612b0cbd","isHidden":false,"type":"text"},{"content":{"level":"h4","text":"<strong>WCS België</strong><br>(Woundcare Consultant Society België)"},"id":"6d68083d-f340-444c-911c-e7201bd22199","isHidden":false,"type":"heading"},{"content":{"text":"<ul><li><a href=\"https://www.wcs-belgie.be/wond-info/richtlijnen/pijn-bij-wondzorg_te-publiceren-versie.pdf\" target=\"_blank\" rel=\"noreferrer\">Consensusdocument: Pijn bij wondzorg - naar een gestructureerde aanpak (NIEUW - 2025)</a></li><li><a href=\"https://www.wcs-belgie.be/wond-info/richtlijnen/concensusdocument-lprf-v5-08022025_finaal2.0.pdf\" target=\"_blank\" title=\"Consensusdocument LPRF\" rel=\"noreferrer\">Consensusdocument: Praktische toepassing van L-PRF (NIEUW - 2025)</a></li><li><a href=\"https://www.wcs-belgie.be/wond-info/richtlijnen/poster-time-cdst-mc-22072024.pdf\" target=\"_blank\" title=\"\" rel=\"noreferrer\">Poster TIME CDST Model</a></li><li><a href=\"/media/pages/wond-info/richtlijnen/bf1882df72-1681765181/poster-skin-tears_final.pdf\" target=\"_blank\" rel=\"noreferrer\">Poster Skin Tears</a> (<a href=\"https://www.wcs-belgie.be/media/pages/wond-info/richtlijnen/9e4e4bafb5-1681761741/referentielijst-poster-skin-tears-v1-mei-2023.pdf\" target=\"_blank\" rel=\"noreferrer\">Referentielijst</a>)</li><li><a href=\"/media/pages/wond-info/richtlijnen/88462ac1bb-1690569887/iad.pdf\" target=\"_blank\" rel=\"noreferrer\">Praktische richtlijn voor preventie en behandeling van IAD</a></li><li><a href=\"/wond-info/richtlijnen/praktische-richtlijn-rond-radiodermatitis_vvro-en-wcs_versie-2.0-2021.pdf\" target=\"_blank\" rel=\"noreferrer\">Praktische richtlijn radiodermatitis</a></li><li><a href=\"/wond-info/richtlijnen/praktische-richtlijn-oncologische-wonde-december-2015.pdf\" target=\"_blank\" rel=\"noreferrer\">Praktische richtlijn oncologische wonde</a></li><li><a href=\"/wond-info/richtlijnen/praktische-richtlijn-oncologische-ulcus_juni-2021_def.-versie-met-tekstballonnen_beveiligd.pdf\" target=\"_blank\" rel=\"noreferrer\">Praktische richtlijn oncologisch ulcus</a></li></ul>"},"id":"4907d8bc-45b7-4d7c-88a9-886c1356f039","isHidden":false,"type":"list"},{"content":{"level":"h4","text":"Handboeken <br>(i.s.m. Woundcare Consultant Society België)"},"id":"49b2afc5-2195-4d2e-9d38-f94b5aeff553","isHidden":false,"type":"heading"},{"content":{"text":"<ul><li><a href=\"https://www.borgerhoff-lamberigts.be/owl-press/shop/boeken/wondmanagement-2\" target=\"_blank\" rel=\"noreferrer\">Wondmanagement - De complete gids</a> (NIEUW - 2024)</li></ul>"},"id":"03f59a26-5b4a-44d3-a50c-777b3fa3d74d","isHidden":false,"type":"list"},{"content":{"level":"h4","text":"<strong>EMWA</strong> <br>(European Management Wound Association)"},"id":"901a3060-e5b3-41f7-80cb-39d2973227b2","isHidden":false,"type":"heading"},{"content":{"text":"<ul><li><a href=\"https://ewma.org/resources/for-professionals/ewma-documents-and-joint-publications\" target=\"_blank\" rel=\"noopener noreferrer\">EWMA Guidelines</a></li></ul>"},"id":"6c97904d-0e25-475d-ad75-0fdef6789df7","isHidden":false,"type":"list"},{"content":{"level":"h4","text":"<strong>WUWHS</strong> <br>(World Union of Wound Healing Societies)"},"id":"4c96483a-cf64-4397-ba43-8e5b18c596a7","isHidden":false,"type":"heading"},{"content":{"text":"<ul><li><a href=\"https://www.wuwhs.org/\" target=\"_blank\" rel=\"noopener noreferrer\">WUWHS Guidelines</a></li></ul>"},"id":"7066308b-57b1-46d2-b022-55a93a6a9ff7","isHidden":false,"type":"list"},{"content":{"level":"h4","text":"<strong>Wounds international</strong>"},"id":"9180e87c-17b3-43b5-82d3-83b084416d3f","isHidden":false,"type":"heading"},{"content":{"text":"<ul><li><a href=\"https://www.woundsinternational.com/resources/all\" target=\"_blank\" rel=\"noopener noreferrer\">Wounds international resources </a></li></ul>"},"id":"fc90d4d5-491c-4f26-b001-62a327138c6b","isHidden":false,"type":"list"},{"content":{"level":"h4","text":"<strong>Landelijke richtlijnen Nederland</strong>"},"id":"e8b4c6fd-453e-44bf-9fc2-cf6a745b426e","isHidden":false,"type":"heading"},{"content":{"text":"<ul><li><a href=\"https://www.wcs.nl/wondwiki/landelijke-richtlijnen/\" target=\"_blank\" rel=\"noopener noreferrer\">Nederlandse Landelijke richtlijnen - Gebundeld door WCS Nederland</a></li></ul>"},"id":"39104396-3683-4c1b-9e4c-d1c7d3c78301","isHidden":false,"type":"list"},{"content":{"level":"h4","text":"<strong>KCE</strong><br>(Federaal Kenniscentrum voor de gezondheidszorg)"},"id":"4468c103-725c-4b47-9414-bfb8889d7c94","isHidden":false,"type":"heading"},{"content":{"text":"<ul><li><a href=\"https://kce.fgov.be/nl/publicaties/alle-rapporten/een-nationale-richtlijn-voor-decubituspreventie\" target=\"_blank\" rel=\"noopener noreferrer\">Nationale richtlijn voor decubituspreventie</a></li><li><a href=\"https://kce.fgov.be/nl/publicaties/alle-rapporten/een-nationale-richtlijn-voor-de-behandeling-van-decubitus\" target=\"_blank\" rel=\"noopener noreferrer\">Nationale richtlijn voor decubitusbehandeling</a></li></ul>"},"id":"4b5e15cc-fd7a-4b63-822e-256bc40755bc","isHidden":false,"type":"list"},{"content":{"level":"h4","text":"<strong>EPUAP</strong><br>(European Pressure Ulcer Advisory Panel)"},"id":"ff4a18f8-cbc9-4648-b90a-5cb6e19bd8b3","isHidden":false,"type":"heading"},{"content":{"text":"<ul><li><a href=\"https://www.epuap.org/pu-guidelines/\" target=\"_blank\" rel=\"noopener noreferrer\">EPUAP Guidelines</a></li></ul>"},"id":"52e42c7f-b05f-438d-9c3c-de4b39203ab0","isHidden":false,"type":"list"},{"content":{"level":"h4","text":"<strong>ISTAP</strong><br>(International Skin Tear Advisory Panel)"},"id":"d785a23b-f38c-4d51-8fd4-92cb4a5a8912","isHidden":false,"type":"heading"},{"content":{"text":"<ul><li><a href=\"https://www.skintears.org/resources\" target=\"_blank\" rel=\"noopener noreferrer\">ISTAP Resources</a></li></ul>"},"id":"ccaf5b90-a282-4010-85b8-545eb35d1100","isHidden":false,"type":"list"},{"content":{"level":"h4","text":"<strong>DEBRA</strong><br>(Epidermolysis Bullosa) (EB)"},"id":"61dbdeed-d323-44a1-ae2d-5e4af1a2be59","isHidden":false,"type":"heading"},{"content":{"text":"<ul><li><a href=\"https://www.debra.org.uk/clinical-practice-guidelines\" target=\"_blank\" rel=\"noopener noreferrer\">Clinical Practice Guidelines EB</a></li></ul>"},"id":"e79d51a0-6376-4766-956b-248bffe561cc","isHidden":false,"type":"list"}]
+
+----
+
+Cover: 
+
+----
+
+Marketingtitle: 
+
+----
+
+Marketingdescription: 
+
+----
+
+Marketingimage: 
+
+----
+
+Images: 
+
+----
+
+Files: 
+
+----
+
+Uuid: kXXtgQ2s6IDQsIOk

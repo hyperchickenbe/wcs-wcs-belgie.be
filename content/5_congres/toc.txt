@@ -1,0 +1,13 @@
+Title: Congres
+
+----
+
+Heroheadline: 
+
+----
+
+Text: [{"content":{"text":"<p>WCS België organiseert om de twee jaar een wondzorgcongres met een zeer gevarieerd programma, boeiende sprekers en tal van firma's waarbij je alle nieuwigheden op de wondzorgmarkt kan terugvinden. De vaste locatie van dit WCS congres is het Cultuurcentrum Hasselt (Kunstlaan 5, 3500, Hasselt).</p><p>Via onderstaande knoppen kan je navigeren naar de programma's van de voorbije edities. De volgende editie zal plaatsvinden op dinsdag <a href=\"https://www.wcs-belgie.be/agenda/wcs-congres-2025\" rel=\"noreferrer\">21 oktober 2025.</a></p>"},"id":"93c3f81a-fb10-42e3-8890-c7af7bb500d4","isHidden":false,"type":"text"}]
+
+----
+
+Uuid: z3DOjgdhQD6iDBhJ

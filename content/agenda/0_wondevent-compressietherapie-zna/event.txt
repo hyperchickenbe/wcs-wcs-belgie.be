@@ -1,0 +1,65 @@
+Title: Compressietherapie - De weg naar sneller herstel
+
+----
+
+Eventheadline: Compressietherapie - De weg naar sneller herstel
+
+----
+
+Eventtype: WCS Wondevent
+
+----
+
+Eventfrom: 2025-02-06
+
+----
+
+Eventto: 
+
+----
+
+Eventlocation: ZAS Middelheim
+
+----
+
+Eventlink: 
+
+----
+
+Eventgooglemaps: 
+
+----
+
+Eventtoggle: true
+
+----
+
+Eventpricemember: 10
+
+----
+
+Eventpricestudent: 10
+
+----
+
+Eventprice: 25
+
+----
+
+Text: [{"content":{"text":"<p>Compressietherapie biedt bij onderbeensulcera vaak een weg naar sneller herstel. Benieuwd naar meer informatie hierover? Dan zien we jou graag op een van onze events in Leuven, Hasselt of Antwerpen.</p><p>Je kan de brochure van het event in Antwerpen via <a href=\"https://www.wcs-belgie.be/agenda/wondevent-compressietherapie-zna/250206-wondevent_compressietherapie_antwerpen.pdf\" target=\"_blank\" rel=\"noreferrer\">deze link</a> downloaden. Inschrijving is enkel mogelijk via onderstaande knop. Van harte welkom!</p>"},"id":"edd976f3-d45a-4ff8-8def-51f045f96350","isHidden":false,"type":"text"}]
+
+----
+
+Marketingtitle: 
+
+----
+
+Marketingdescription: 
+
+----
+
+Marketingimage: 
+
+----
+
+Uuid: ozWr60gdMDNz2EhQ

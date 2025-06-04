@@ -1,0 +1,11 @@
+title: Editor
+description: Can edit pages
+permissions:
+  access:
+    languages: false
+    system: false
+    users: false
+  user:
+    changeRole: false
+    delete: false
+  users: false

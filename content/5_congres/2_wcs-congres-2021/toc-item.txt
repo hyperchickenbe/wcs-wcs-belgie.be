@@ -1,0 +1,37 @@
+Title: WCS congres 2021
+
+----
+
+Heroheadline: 
+
+----
+
+Text: [{"content":{"text":"<p>Dit WCS congres vond omwille van COVID een jaartje later plaats, op 26 oktober 2021, met als titel '<strong>Wond zonder naam<\/strong>'.<\/p><p>Behandelde topics waren:<\/p>"},"id":"f9087218-11c8-465b-8a02-861e49087f78","isHidden":false,"type":"text"},{"content":{"text":"<ul><li><strong>Compressietherapie<\/strong><ul><li>Dhr. Bart Maene<\/li><li>Clinical &amp; Scientific Affairs Manager<\/li><\/ul><\/li><li><strong>Acute wondzorg in de thuiszorg en op spoedgevallen<\/strong><ul><li>Dhr. Kris Bernaerts<\/li><li>Verpleegkundig specialist wondzorg, UZ Leuven<\/li><\/ul><\/li><li><strong>Persoonlijke positionering van verschillende methodes van debrideren<\/strong><ul><li>Mevr. Heidi Weedaege<\/li><li>Lector wondzorg en co\u00f6rdinator werkgroep wondzorg VIVES<\/li><\/ul><\/li><li><strong>Negatieve druktherapie in de thuiszorg<\/strong><ul><li>Mevr. Kristel Schols<\/li><li>Domeinco\u00f6rdinator wondzorg Wit-Gele Kruis Limburg<\/li><\/ul><\/li><li><strong>Patient safety toegepast op wondzorg<\/strong><ul><li>Prof. Jochen Bergs<\/li><li>Lector Hogeschool PXL Hasselt en UHasselt<\/li><\/ul><\/li><li><strong>Etiologie van incontinence Associated Dermatitis, risicofactoren en associatie met decubitus<\/strong><ul><li>Prof. Dimitri Beeckman<\/li><li>University Centre for Nursing and Midwifery, Skin Integrity Research Group (SKINT) UGent<\/li><\/ul><\/li><li><strong>Een praktische richtlijn voor preventie en behandeling van IAD<\/strong><ul><li>Mevr. Adinda Toppets<\/li><li>Lector Hogeschool PXL Hasselt<\/li><\/ul><\/li><li><strong>Vilttherapie, meer dan een mousse\u2026<\/strong><ul><li>Mevr. Ellen Busschots<\/li><li>Podoloog UZ Leuven<\/li><\/ul><\/li><li><strong>Chirurgische reconstructie van defecten: van \u2018auto-transplantatie\u2019 tot \u2018tissue engineering\u2019<\/strong><ul><li>Prof. Dr. Jan Jeroen Vranckx<\/li><li>Dep. Plastische en reconstructieve heelkunde UZ Leuven<\/li><\/ul><\/li><\/ul>"},"id":"78c8174d-000e-46f8-9a56-225a5cdbdc3f","isHidden":false,"type":"list"},{"content":{"text":"<p>Deze presentaties zijn niet meer ter beschikking op de website.<\/p>"},"id":"f6cdbcea-c95a-4ee1-9583-09d723d109e7","isHidden":false,"type":"text"}]
+
+----
+
+Cover: 
+
+----
+
+Marketingtitle: 
+
+----
+
+Marketingdescription: 
+
+----
+
+Marketingimage: 
+
+----
+
+Images: 
+
+----
+
+Files: 
+
+----
+
+Uuid: hzXJp3sgqTXGi7bx

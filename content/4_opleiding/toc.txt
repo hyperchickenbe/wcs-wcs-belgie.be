@@ -1,0 +1,13 @@
+Title: Opleiding
+
+----
+
+Heroheadline: 
+
+----
+
+Text: [{"content":{"text":"<p>WCS Belgi\u00eb verleent zijn medewerking aan de organisatie van verschillende opleidingsprogramma's i.s.m. hogescholen en universiteiten. Via onderstaande knoppen vindt u de nodige informatie hierover terug.<\/p>"},"id":"8e326cd1-9baf-49f0-a070-f9a1661b77d8","isHidden":false,"type":"text"}]
+
+----
+
+Uuid: uhEtT5SnkESuFEJ9

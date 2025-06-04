@@ -1,0 +1,57 @@
+Title: Inschrijving mailinglijst
+
+----
+
+Heroheadline: 
+
+----
+
+Text: [{"content":{"text":"<p>Wil je voortaan automatisch op de hoogte gehouden worden van onze nieuwste <a href=\"/wond-info/richtlijnen\" rel=\"noreferrer\">publicaties</a>, <a href=\"/wond-events\" rel=\"noreferrer\">wondevents</a> en <a href=\"/congres\" rel=\"noreferrer\">congressen</a>? Schrijf je dan via onderstaand formulier <strong>gratis</strong> in op onze mailinglijst. </p>"},"id":"8e2034c5-ecf1-4944-b83b-9d00d1da6ea4","isHidden":false,"type":"text"}]
+
+----
+
+Formrequired: Velden met een (*) zijn verplicht in te vullen.
+
+----
+
+Formhoneypot: Laat dit veld leeg (anti-spam)
+
+----
+
+Labelname: Voornaam
+
+----
+
+Labelsurname: Achternaam
+
+----
+
+Labelemail: E-mail
+
+----
+
+Labelemailcheck: E-mail (controle)
+
+----
+
+Labelmessage: Bericht
+
+----
+
+Nextbutton: Aanmelden op Mailinglijst
+
+----
+
+Marketingtitle: 
+
+----
+
+Marketingdescription: 
+
+----
+
+Marketingimage: 
+
+----
+
+Uuid: j4jEIKkLEeXIsAQU

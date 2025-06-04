@@ -1,0 +1,20 @@
+title: Error
+
+options:
+  changeStatus: false
+  duplicate: false
+  delete: false
+
+tabs:
+
+  content:
+    label: Content
+    columns:
+
+      - width: 2/3
+        sections:
+          hero:
+            extends: sections/hero
+            fields:
+              heroCover: false
+              heroLabel: false

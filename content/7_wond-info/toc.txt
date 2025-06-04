@@ -1,0 +1,13 @@
+Title: Wondinfo
+
+----
+
+Heroheadline: 
+
+----
+
+Text: [{"content":{"text":"<p>Op deze pagina kan je heel wat informatie terugvinden over wondzorg. Volgende onderdelen komen daarbij aan bod:<\/p>"},"id":"b6a96b68-0c23-4c70-a9f9-98fdc1daa6f0","isHidden":false,"type":"text"},{"content":{"text":"<ul><li><strong>Forum vraagstelling<\/strong>:  Regelmatig contacteren collega zorgverleners ons met concrete -doch bondige- vragen over wondzorg. Binnen dit forum worden de vaakst voorkomende vragen beantwoord door onze WCS bestuursleden. Heeft u zelf een vraag? Aarzel dan niet om ons te <a href=\"\/contact\" rel=\"noopener noreferrer\">contacteren<\/a>. <\/li><li><strong>Richtlijnen<\/strong>: De richtlijnen en posters opgesteld vanuit onze <a href=\"\/werkgroepen\" rel=\"noopener noreferrer\">WCS werkgroepen<\/a> worden op deze pagina gepubliceerd. <\/li><li><strong>Wondzorg websites<\/strong>: Naast onze website zijn er nog heel wat andere nuttige websites m.b.t. wondzorg te vinden op het wereldwijde web. We delen ze graag met u. <\/li><li><strong>Info wondproducten<\/strong>: Deze pagina helpt u op weg binnen het brede gamma aan wondzorgproducten op de Belgische markt.<\/li><\/ul>"},"id":"4cd01e8b-b3ec-4990-bf28-4f6610d0e7ab","isHidden":false,"type":"list"},{"content":{"text":"<p>Via onderstaande knoppen kan u navigeren naar de gewenste pagina-onderdelen.<\/p>"},"id":"a0a6faf7-9454-4f72-af08-eedbd338caef","isHidden":false,"type":"text"}]
+
+----
+
+Uuid: JI2Fl6IjFaaRIYek

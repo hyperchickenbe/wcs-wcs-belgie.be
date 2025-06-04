@@ -1,0 +1,21 @@
+Title: Bedankt
+
+----
+
+Heroheadline: Aanmelding ontvangen
+
+----
+
+Text: [{"content":{"level":"h3","text":"Mailinglijst WCS België"},"id":"2028d758-913b-4e6b-af07-37a26f75a121","isHidden":false,"type":"heading"},{"content":{"text":"<p>Bedankt voor uw aanmelding!</p><p>Vanaf nu wordt u automatisch op de hoogte gehouden van alle <a href=\"/wond-events\" rel=\"noopener noreferrer\">wondzorgevents </a>en <a href=\"/congres\" rel=\"noopener noreferrer\">congressen</a>, georganiseerd door WCS België.</p>"},"id":"eb3664cb-5161-4f8a-af9e-2d68d38ff6a0","isHidden":false,"type":"text"},{"content":{"level":"h3","text":"Nieuwsbrief WCS Nederland"},"id":"5736dbb3-f521-445b-bc79-027040758153","isHidden":false,"type":"heading"},{"content":{"text":"<p>WCS België werkt nauw samen met <a href=\"https://www.wcs.nl/\" target=\"_blank\" rel=\"noopener noreferrer\">WCS Nederland</a>. Het WCS Kenniscentrum Wondzorg Nederland publiceert maandelijks een gratis digitale nieuwsbrief die erop gericht is de kwaliteit van wondzorg op een hoog niveau te houden. De nieuwsbrieven van de voorbije maanden kan u via <a href=\"https://www.wcs.nl/nieuws/\" target=\"_blank\" rel=\"noopener noreferrer\">deze link</a> bekijken.</p><p>Door te klikken op <a href=\"https://www.wcs.nl/over-wcs/inschrijven-wcs-e-brief/\" target=\"_blank\" rel=\"noopener noreferrer\">deze link</a>, meldt u zich ook aan voor deze Nederlandse nieuwsbrief. U ontvangt deze dan maandelijks in uw mailbox.</p>"},"id":"10dd8f53-2b30-43e1-ac2b-a23a526f1062","isHidden":false,"type":"text"}]
+
+----
+
+Herolinktext: Ga naar de homepage
+
+----
+
+Herolink: home
+
+----
+
+Uuid: OrAC5gnBzX9A5SVB

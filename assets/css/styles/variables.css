@@ -1,0 +1,130 @@
+:root {
+  --container: 80rem;
+  --container-padding: 3rem;
+
+  --font-sans: 'Montserrat', sans-serif;
+  --font-serif: serif;
+  --font-mono: "SFMono-Regular",Consolas,Liberation Mono,Menlo,Courier,monospace;
+
+  --text-xs: 0.75rem;
+  --text-sm: 0.875rem;
+  --text-base: 1rem;
+  --text-lg: 1.125rem;
+  --text-xl: 1.15rem;
+  --text-2xl: 1.5rem;
+  --text-3xl: 1.75rem;
+  --text-4xl: 2.5rem;
+  --text-5xl: 3rem;
+  --text-6xl: 4rem;
+
+  --color-black: hsl(0, 0%, 0%);
+  --color-white: hsl(0, 0%, 100%);
+  --color-gray-100: hsl(0, 0%, 90%);
+  --color-gray-200: hsl(0, 0%, 85%);
+  --color-gray-300: hsl(0, 0%, 80%);
+  --color-gray-400: hsl(0, 0%, 75%);
+  --color-gray-500: hsl(0, 0%, 50%);
+  --color-gray-600: hsl(0, 0%, 25%);
+  --color-gray-700: hsl(0, 0%, 20%);
+  --color-gray-800: hsl(0, 0%, 17%);
+  --color-gray-900: hsl(0, 0%, 14%);
+}
+
+html[data-theme='dark'] {
+  --color-bg: var(--color-gray-900);
+  --color-bg-light: var(--color-gray-600);
+  --color-bg-light-text: var(--color-white);
+  --color-bg-dark: var(--color-gray-800);
+  --color-bg-dark-text: var(--color-white);
+  --color-bg-toc: var(--color-gray-600);
+  --color-bg-table-hover: var(--color-gray-800);
+  --color-bg-btn: var(--color-gray-700);
+  --color-bg-btn-hover: var(--color-gray-600);
+  --color-heading: var(--color-white);
+  --color-text: var(--color-gray-300);
+  --color-text-mute: var(--color-gray-500);
+  --color-text-link: var(--color-white);
+  --color-text-toc: var(--color-white);
+  --color-btn: var(--color-white);
+  --color-line: var(--color-gray-600);
+  --color-line-mute: var(--color-gray-700);
+  --color-marker: var(--color-white);
+}
+
+html[data-theme='light'] {
+  --color-bg: var(--color-white);
+  --color-bg-light: var(--color-gray-100);
+  --color-bg-light-text: var(--color-text);
+  --color-bg-dark: var(--color-gray-800);
+  --color-bg-dark-text: var(--color-white);
+  --color-bg-toc: var(--color-black);
+  --color-bg-table-hover: var(--color-gray-100);
+  --color-bg-btn: var(--color-gray-700);
+  --color-bg-btn-hover: var(--color-gray-600);
+  --color-heading: var(--color-gray-900);
+  --color-text: var(--color-gray-700);
+  --color-text-mute: var(--color-gray-500);
+  --color-text-link: var(--color-black);
+  --color-text-toc: var(--color-white);
+  --color-text-btn: var(--color-white);
+  --color-line: var(--color-gray-400);
+  --color-line-mute: var(--color-gray-200);
+  --color-marker: var(--color-white);
+}
+
+html[data-theme='light-branded'] {
+  --color-bg: hsl(208, 44%, 23%);
+  --color-bg-light: hsl(207, 41%, 17%);
+  --color-bg-light-text: var(--color-text);
+  --color-bg-dark: hsl(208, 44%, 23%);
+  --color-bg-dark-text: var(--color-white);
+  --color-bg-toc: orange;
+  --color-bg-table-hover: hsl(208, 40%, 27%);
+  --color-bg-btn: hsl(208, 55%, 13%);
+  --color-bg-btn-hover: hsl(208, 55%, 16%);
+  --color-heading: var(--color-white);
+  --color-text: var(--white);
+  --color-text-mute: hsl(208, 48%, 71%);
+  --color-text-link: hsl(208, 100%, 84%);
+  --color-text-toc: var(--color-black);
+  --color-text-btn: var(--color-white);
+  --color-line: hsl(208,26%,43%);
+  --color-line-mute: var(--color-gray-200);
+  --color-marker: var(--color-white);
+  --color-nav-current: hsl(27, 100%, 65%);
+}
+
+.theme-light {
+  background-color: var(--color-white);
+  color: var(--color-gray-900);
+}
+
+.theme-light a {
+  color: var(--color-gray-900);
+}
+
+.theme-light h3 {
+  color: var(--color-black);
+}
+
+.theme-dark {
+  background-color: var(--color-bg-dark);
+  color: var(--color-white);
+}
+
+.theme-dark audio {
+  color: hsl(207.9, 43.4%, 80.6%);
+}
+
+.theme-dark a:hover {
+  color: var(--color-white);
+  text-decoration: none;
+}
+
+.theme-dark h2 a {
+  color: red;
+}
+
+.theme-dark .text h2 a {
+  color: var(--color-white);
+}

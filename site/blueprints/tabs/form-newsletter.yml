@@ -1,0 +1,35 @@
+label: Form
+columns:
+
+  - width: 2/3
+    fields:
+      formRequired:
+        label: Required
+        type: text
+      formHoneypot:
+        label: Honeypot
+        type: text
+      labelName:
+        label: Name
+        type: text
+        width: 1/2
+      labelSurname:
+        label: Surname
+        type: text
+        width: 1/2
+      labelEmail:
+        label: Email
+        type: text
+        width: 1/2
+      labelEmailCheck:
+        label: Email (check)
+        type: text
+        width: 1/2
+      labelMessage:
+        label: Message
+        type: text
+        width: 1/2
+      nextButton:
+        label: Button
+        type: text
+        width: 1/2

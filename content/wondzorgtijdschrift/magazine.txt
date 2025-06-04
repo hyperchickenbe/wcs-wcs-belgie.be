@@ -1,0 +1,81 @@
+Title: Abonnement WCS België
+
+----
+
+Heroheadline: Abonnement WCS
+
+----
+
+Text: [{"content":{"text":"<p>'WCS Nieuws' is een wondzorgtijdschrift dat uitgegeven wordt door het WCS Kenniscentrum Wondzorg Nederland.</p><p>WCS Nieuws geeft uitgebreide informatie op het gebied van wondbehandeling en -verzorging, casuïstiek en nieuwe ontwikkelingen. Die informatie wordt uit de praktijk zelf gehaald, maar ook uit de wetenschap. Richtlijnen worden vertaald naar de praktijk, er worden handvaten gegeven voor implementatie van de richtlijnen en protocollen ... .</p><p>Wilt u abonnee worden voor 2025? Vul dan onderstaand formulier in. Bovendien geniet u met dank aan uw abonneenummer een mooie korting op het inschrijvingsgeld voor al de activiteiten (<a href=\"/wond-events\" rel=\"noreferrer\">wondzorgevents</a> en <a href=\"/congres\" rel=\"noreferrer\">congressen</a>) van WCS België.</p>"},"id":"13a59eb4-a055-49d0-9bdc-6396c1a400d3","isHidden":false,"type":"text"},{"content":{"text":"<p>Elke jaargang bevat vier nummers van 'WCS Nieuws' (maart-juni-september-december). Ieder abonnement, ongeacht de datum waarop het werd afgesloten, eindigt op het einde van het kalenderjaar (eind december). </p>"},"id":"83173d68-de30-4d85-9c3e-e9dd3a7d93a6","isHidden":false,"type":"text"},{"content":{"text":"<ul><li>Betaling vóór 25 mei 2025: €49.5 (voor 3 à 4 nummers, afhankelijk van het moment waarop u betaalt)</li><li>Betaling na 25 mei 2025: €25 (voor 1 à 2 nummers, afhankelijk van het moment waarop u betaalt)</li></ul>"},"id":"b4184df2-0031-49f9-afa9-8fcfb34ccccb","isHidden":false,"type":"list"}]
+
+----
+
+Formrequired: Velden met een (*) zijn verplicht in te vullen.
+
+----
+
+Formhoneypot: Laat dit veld leeg (anti-spam)
+
+----
+
+Labelname: Voornaam
+
+----
+
+Labelsurname: Achternaam
+
+----
+
+Labelstreet: Straat
+
+----
+
+Labelnumber: Huisnummer
+
+----
+
+Labelpostalcode: Postcode
+
+----
+
+Labelcity: Plaats
+
+----
+
+Labelphone: Telefoon
+
+----
+
+Labelemail: E-mail
+
+----
+
+Labelworkplace: Werkplek
+
+----
+
+Nextbutton: Abonneer op tijdschrift
+
+----
+
+Marketingtitle: 
+
+----
+
+Marketingdescription: 
+
+----
+
+Marketingimage: 
+
+----
+
+Labelemailcheck: 
+
+----
+
+Labelmessage: Bericht
+
+----
+
+Uuid: biLoG716JtfxyabL

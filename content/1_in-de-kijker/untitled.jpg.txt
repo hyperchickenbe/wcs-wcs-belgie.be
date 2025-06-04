@@ -1,0 +1,5 @@
+Uuid: rW8sPwGpin45s01T
+
+----
+
+Template: blocks/image

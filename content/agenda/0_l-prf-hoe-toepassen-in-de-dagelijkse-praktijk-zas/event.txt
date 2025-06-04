@@ -1,0 +1,65 @@
+Title: L-PRF: hoe toepassen in de dagelijkse praktijk
+
+----
+
+Eventheadline: 
+
+----
+
+Eventtype: WCS Wondevent
+
+----
+
+Eventfrom: 2025-02-20
+
+----
+
+Eventto: 
+
+----
+
+Eventlocation: ZAS Middelheim
+
+----
+
+Eventlink: 
+
+----
+
+Eventgooglemaps: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2501.0241052752835!2d4.418666576904981!3d51.18177863443843!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c3f72cfa1e4281%3A0x6b11cb239fbafe9a!2sZAS%20Middelheim!5e0!3m2!1snl!2sbe!4v1728053211973!5m2!1snl!2sbe
+
+----
+
+Eventtoggle: true
+
+----
+
+Eventpricemember: 10
+
+----
+
+Eventpricestudent: 10
+
+----
+
+Eventprice: 25
+
+----
+
+Text: [{"content":{"text":"<p>L-PRF (leukocyte- and platelet-rich fibrin) is een concentraat van leukocyten (witte bloedcellen), trombocyten (bloedplaatjes) en fibrine, vervaardigd uit het eigen bloed van de zorgontvanger m.b.v. centrifugering. Deze autologe, bloedafgeleide therapie wordt op dit moment in België beschouwd als de meest toegankelijke en meest toegepaste celtherapie, gebruikt bij wondzorg.</p><p>De praktische toepassing ervan kent echter heel wat variatie waardoor er nood was aan een consensus over het correct gebruik.</p><p>Een focusgroep van Vlaamse zorgverleners met een bijzondere expertise in de toepassing van L-PRF bij wondzorg, werkte daarom aan een expert-based consensusdocument. Dit document is erop gericht de lezer praktische handvaten te geven, nodig om de techniek op een correcte manier en bij de juiste indicaties toe te passen.</p><p>Werk jij al met L-PRF en wil je jouw techniek toetsen of verfijnen? Of overweeg je om met L-PRF aan de slag te gaan binnen jouw wondzorgpraktijk? Of ben je gewoon heel nieuwsgierig naar de werking van L-PRF therapie? Dan nodigen wij jou van harte uit op een van de events waarop dit consensusdocument aan het publiek wordt voorgesteld. Hierbij zullen experten ook casuïstiek uit hun praktijk delen.</p><p>Het programma kan je bekijken in <a href=\"https://www.wcs-belgie.be/agenda/l-prf-hoe-toepassen-in-de-dagelijkse-praktijk-zas/250220-wondevent_lprf_antwerpen.pdf\" target=\"_blank\" rel=\"noreferrer\">deze flyer</a>.</p><p>Deze vorming gaat door in zaal Brabo in ZAS Middelheim. </p><p>Inschrijven is verplicht en kan via onderstaande knoppen.</p>"},"id":"159aa0b7-7a69-42c6-b83c-023de1fade07","isHidden":false,"type":"text"}]
+
+----
+
+Marketingtitle: 
+
+----
+
+Marketingdescription: 
+
+----
+
+Marketingimage: 
+
+----
+
+Uuid: dPfarGAhbhifomHz

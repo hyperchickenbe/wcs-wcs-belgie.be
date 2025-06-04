@@ -1,0 +1,65 @@
+Title: Preventie en behandeling van skin tears
+
+----
+
+Eventheadline: 
+
+----
+
+Eventtype: WCS Wondevent
+
+----
+
+Eventfrom: 2023-05-11
+
+----
+
+Eventto: 
+
+----
+
+Eventlocation: PXL Hasselt
+
+----
+
+Eventlink: 
+
+----
+
+Eventgooglemaps: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d10057.046359995482!2d5.339850295497668!3d50.93737513432!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c121c3a0bebb1d%3A0x366502bf8f2944ac!2sPXL-Healthcare!5e0!3m2!1snl!2sbe!4v1677527109724!5m2!1snl!2sbe
+
+----
+
+Eventtoggle: false
+
+----
+
+Eventpricemember: 10
+
+----
+
+Eventpricestudent: 10
+
+----
+
+Eventprice: 25
+
+----
+
+Text: [{"content":{"text":"<ul><li><strong>Programma: </strong>\"Skin Tears: iedereen weet hoe het moet, maar wie doet het al goed?\"<ul><li>Onthaal 19:00u - Aanvang presentaties 19:30u - Einde 22:00u</li><li>Skin tears: preventie en behandeling<ul><li>Dhr. Koen Cortebeeck – Coördinator wondzorg GZA ziekenhuizen</li><li>Suzanne Stijven – WGK Limburg: referentie specialist wondzorg</li></ul></li><li>Casuïstiek Skin Tears<ul><li>Mevr. Jeannine Spinnael – Verpleegkundig Specialist Wondzorg UZ Brussel </li></ul></li></ul></li><li><strong>Contactpersoon</strong>: Adinda Toppets, 0474/581615, <a href=\"mailto:adinda.toppets@pxl.be\">adinda.toppets@pxl.be</a></li><li><strong>Locatie</strong>: PXL campus Healthcare, Guffenslaan 39, 3500 Hasselt</li><li><strong>Parking</strong>: Inrijden via de slagboom aan de Guffenslaan (zal vrij toegankelijk zijn)</li><li><strong>Uitnodiging:</strong> via <a href=\"/agenda/preventie-en-behandeling-van-skin-tears-pxl/230511-wondevent_skin-tears_hasselt.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">deze link</a> kan u de uitnodiging van dit event downloaden.</li></ul>"},"id":"8c8a4459-d11d-4a02-945c-9e2f51404389","isHidden":false,"type":"list"}]
+
+----
+
+Marketingtitle: 
+
+----
+
+Marketingdescription: 
+
+----
+
+Marketingimage: 
+
+----
+
+Uuid: Hv6vbi1jwz9UFcqy

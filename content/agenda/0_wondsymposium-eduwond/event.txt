@@ -1,0 +1,65 @@
+Title: Wondsymposium Eduwond: wiekzorg
+
+----
+
+Eventheadline: Wiekzorg: evidentie of opinie?
+
+----
+
+Eventtype: Eduwond
+
+----
+
+Eventfrom: 2025-02-13
+
+----
+
+Eventto: 
+
+----
+
+Eventlocation: UGent
+
+----
+
+Eventlink: https://www.eduwond.be/nl/wondevents/wondsymposium-wiekzorg-evidentie-of-opinie/situering/
+
+----
+
+Eventgooglemaps: 
+
+----
+
+Eventtoggle: false
+
+----
+
+Eventpricemember: 
+
+----
+
+Eventpricestudent: 
+
+----
+
+Eventprice: 
+
+----
+
+Text: [{"content":{"text":"<p>Meer info kan u <a href=\"https://www.wcs-belgie.be/media/pages/agenda/wondsymposium-eduwond/f1b61a04d5-1738768993/poster-wondsymposium-1322025.pdf\" rel=\"noreferrer\">hier</a> vinden</p>"},"id":"61bcf24d-2b05-4ceb-a56a-0a091f192a8b","isHidden":false,"type":"text"}]
+
+----
+
+Marketingtitle: 
+
+----
+
+Marketingdescription: 
+
+----
+
+Marketingimage: 
+
+----
+
+Uuid: n7w3VxMFWyathfVh

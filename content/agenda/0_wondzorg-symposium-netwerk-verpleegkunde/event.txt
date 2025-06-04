@@ -1,0 +1,65 @@
+Title: Wondzorg Symposium Netwerk Verpleegkunde
+
+----
+
+Eventheadline: 
+
+----
+
+Eventtype: Netwerk Verpleegkunde
+
+----
+
+Eventfrom: 2024-11-26
+
+----
+
+Eventto: 
+
+----
+
+Eventlocation: Herentals
+
+----
+
+Eventlink: https://www.netwerkverpleegkunde.be/page?orl=113882&ssn=&lng=1&pge=562&searchlist=&pge_old=560&zoek=wondzorgsymposium&acy=1912
+
+----
+
+Eventgooglemaps: 
+
+----
+
+Eventtoggle: false
+
+----
+
+Eventpricemember: 
+
+----
+
+Eventpricestudent: 
+
+----
+
+Eventprice: 
+
+----
+
+Text: [{"content":{"location":"kirby","image":["file://N3wELQqoveQSNUa9"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"true"},"id":"5b1b5a51-b5b0-4a17-ad28-cc2665df24dc","isHidden":false,"type":"image"}]
+
+----
+
+Marketingtitle: 
+
+----
+
+Marketingdescription: 
+
+----
+
+Marketingimage: 
+
+----
+
+Uuid: BSAuyo8um9c5m9nn

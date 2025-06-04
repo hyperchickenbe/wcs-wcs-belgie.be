@@ -1,0 +1,9 @@
+Sort: 1
+
+----
+
+Uuid: gYpw3LbKVst99XkE
+
+----
+
+Template: image-logo

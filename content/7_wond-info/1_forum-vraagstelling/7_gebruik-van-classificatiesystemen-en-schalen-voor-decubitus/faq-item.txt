@@ -1,0 +1,29 @@
+Title: Gebruik van classificatiesystemen en schalen voor decubitus
+
+----
+
+Question:
+
+In de internationale en nationale richtlijn voor decubitusbehandeling staat dat dat we gebruik dienen te maken van een gestandaardiseerd classificatiesysteem. Is het binnen het kader van het opstellen van een wondzorgprotocol aangewezen de aanvullende categorieën ook te vermelden?
+Men spreekt ook van het gebruik van een schaal om de wondheling op te volgen. Welke schaal geniet de voorkeur? PUSH-tool, PSST of Sessing scale?
+Hoe voer ik een goede wondmeting uit? Er bestaan tegenwoordig app’s om dit te doen. Dit lijkt me interessant omdat er geen wondcontact nodig is. Bevelen jullie deze app’s aan en zoja welke of zijn er hiervoor nog andere methodes die ik niet ken.
+
+----
+
+Answer: [{"content":{"text":"<p>Het zijn zeker geen makkelijke vragen waar ook niet direct een eenduidig antwoord voor is. Belangrijkste vraag is waar je naartoe wil en wat je wil bereiken?<\/p><p>Classificatiesysteem: bekijk of aanvullende categorie\u00ebn een meerwaarde zijn voor jullie. In praktijk merken we dat dit nog maar in weinig ziekenhuizen wordt toegepast. Verder stellen we ook vast dat veel verpleegkundigen het al moeilijk hebben om de huidige categorie\u00ebn juist te gebruik. Maak het dus niet te complex.<\/p><p>Schalen:\u00a0 hier is er niet direct een voorkeur, maar bekijk ook hier of een aparte schaal hier een meerwaarde is voor je dagelijkse praktijk. En is dit te combineren met andere principes die je hanteert om je wondzorgbeleid te bepalen?<\/p><p>Wondmeting: er zijn inderdaad verschillende app\u2019s en op elk congres kan je deze wel terugvinden. Vele zijn wel interessant, maar vaak hangt daar ook een serieus prijskaartje aan vast. Zeker als je het ook wil integreren in je eigen registratiesysteem. Vaak kom je zelf ook al een heel stuk verder indien je werkt met digitale fotografie in combinatie met het gebruik van een meetlatje.<\/p><p>Ik vermoed dat ik je dus niet veel verder ga kunnen helpen. Maar een belangrijke tip: weeg altijd goed af wat de meerwaarde is en hoe je het kan integreren en implementeren. En indien je het breed moet implementeren in je ziekenhuis of instelling, hou het vooral simpel. Hoe eenvoudiger, hoe meer kans op slagen\u2026<\/p>"},"id":"2471abe6-6d25-428b-86b0-87ad1ff43867","isHidden":false,"type":"text"}]
+
+----
+
+Marketingtitle: 
+
+----
+
+Marketingdescription: 
+
+----
+
+Marketingimage: 
+
+----
+
+Uuid: 2eRmim42p3YDOhoS

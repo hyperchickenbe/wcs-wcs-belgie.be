@@ -1,0 +1,77 @@
+Title: WCS België
+
+----
+
+Logocolor: - file://baZscivKXe5AAGiS
+
+----
+
+Logoneutral: - file://DW5WYZUrPnITnR6D
+
+----
+
+Generaltype: Wondzorg vzw
+
+----
+
+Generalname: WCS België
+
+----
+
+Generaltagline: Belgische vereniging voor deskundigen in wondzorg
+
+----
+
+Social:
+
+- 
+  logo:
+    - file://IBSlO2Nk1WPWO418
+  platform: Facebook
+  url: https://www.facebook.com/wcsbelgie
+- 
+  logo:
+    - file://259pcC7mqC8yk50n
+  platform: Instagram
+  url: https://www.instagram.com/wcsbelgie/
+- 
+  logo:
+    - file://9ROFkuSktHQkJpWT
+  platform: LinkedIn
+  url: 'https://www.linkedin.com/company/wcs-wondzorg-belgi%C3%AB/'
+
+----
+
+Notificationtoggle: false
+
+----
+
+Notificationtext: De inschrijvingen voor het WCS-Congres op 24-10-2023 zijn geopend:
+
+----
+
+Notificationlink: https://www.wcs-belgie.be/agenda/wcs-congres
+
+----
+
+Notificationlinktext: Klik hier om in te schrijven
+
+----
+
+Logoimages: - file://Zma90zL139VwbS9L
+
+----
+
+Logomobile: 
+
+----
+
+Logodefault: - file://kx6rn46OzwopeZAb
+
+----
+
+Logo: 
+
+----
+
+Name: Wondzorg v.z.w. WCS België

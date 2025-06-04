@@ -1,0 +1,25 @@
+Title: Image
+
+----
+
+Heroheadline: 
+
+----
+
+Text: [{"content":{"text":"<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam suscipit nibh eu augue pretium, a viverra mi ullamcorper. Maecenas vel purus ante. Suspendisse maximus luctus arcu.<\/p>"},"id":"411970fd-f3d0-4937-9931-b1500dd4e005","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["file:\/\/r6QQHvL0Xqb8Snke"],"src":"","alt":"","caption":"This is a caption.","link":"","ratio":"","crop":"false"},"id":"7ec02822-9ac3-4891-b7c2-dbe2bf24f1f5","isHidden":false,"type":"image"},{"content":{"text":"<p>Donec convallis facilisis felis consectetur dignissim. Mauris maximus eget odio quis sodales. Integer nunc ligula, eleifend ac odio vel, feugiat scelerisque quam. Curabitur interdum turpis ac leo sodales, ac rutrum tortor pretium. Morbi in semper felis. Vivamus lacinia neque non dolor hendrerit commodo.<\/p><p>Fusce quis dictum lectus. Integer metus leo, iaculis quis dictum sed, egestas quis enim. Etiam dictum lorem vel est ornare, id vehicula nunc luctus. Sed sit amet tristique tellus, eu tincidunt nulla. Quisque ut porttitor purus. Aenean eu viverra est. Aenean aliquet volutpat ex vel viverra.<\/p>"},"id":"9636dcf2-b5d1-4c94-a3ee-c0cd98c3dbd3","isHidden":false,"type":"text"}]
+
+----
+
+Marketingtitle: 
+
+----
+
+Marketingdescription: 
+
+----
+
+Marketingimage: 
+
+----
+
+Uuid: G5zIZoXe3KGLDc5F

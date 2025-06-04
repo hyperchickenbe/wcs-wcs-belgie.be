@@ -1,0 +1,9 @@
+label: Logo
+type: files
+layout: cards
+multiple: false
+max: 1
+uploads:
+  template: image-logo
+help: Only SVG images are allowed.
+empty: No image selected

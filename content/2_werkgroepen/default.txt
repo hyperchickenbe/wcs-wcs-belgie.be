@@ -1,0 +1,25 @@
+Title: Werkgroepen
+
+----
+
+Heroheadline: 
+
+----
+
+Text: [{"content":{"level":"h2","text":"WCS Werkgroepwerking"},"id":"878efa76-deca-43dd-ba79-580af0746781","isHidden":false,"type":"heading"},{"content":{"text":"<p>WCS België biedt haar werkgroepleden via intervisiemomenten, opleidings- en netwerkdagen de mogelijkheid om zich verder te ontwikkelen en te professionaliseren in de wondzorg en om een wondzorgnetwerk uit te bouwen. WCS biedt ruimte om te delen waar je mee bezig bent en te leren van elkaar.</p><p>Ook kunnen werkgroepleden samen dingen ontwikkelen via ad hoc werkgroepen. We organiseren twee ad hoc werkgroepen per jaar waarbij wordt gewerkt rond actuele wondzorgthema's. Vanuit deze werkgroep wordt rond elk thema een praktische richtlijn of poster ontwikkeld die bruikbaar is voor elk van ons in de dagelijkse praktijk. Deze informatie zal ook verspreid worden via publicaties, door de organisatie van wondzorgevents en workshops en zal ook terug te vinden zijn op deze website.</p><p>De verwachting van een werkgroeplid is dat je je engageert om de werking van WCS mee te dragen en mee te werken aan de verschillende opleidingen en werkgroepen die WCS organiseert. Anderzijds ondersteun of participeer je ook aan de wondzorgevents en het tweejaarlijkse WCS congres.</p><p>Ben je een zorgverlener met expertise in de wondzorg en heb je hiervoor interesse? Dan kan je je kandidaat stellen om WCS werkgroeplid te worden. Dit kan door een schriftelijke motivatie te richten aan een van <a href=\"/over-ons\" rel=\"noreferrer\">de bestuursleden</a> of via het <a href=\"/contact\" rel=\"noreferrer\">contactformulier</a>.</p><p>Is je interesse geprikkeld, maar lijkt dit voor jou net een stapje te ver? Neem dan zeker eens een kijkje op onze pagina over <a href=\"/regionaal-overleg\" rel=\"noreferrer\">het regionaal overlegplatform</a>.</p>"},"id":"53c25bf4-7506-4b85-a2eb-6d913b1d6cc9","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"WCS Werkgroepleden"},"id":"d6a72038-8d37-4fab-8047-62c37accc1b5","isHidden":false,"type":"heading"},{"content":{"text":"<p>Onderstaande werkgroepleden zijn momenteel verbonden aan WCS België: </p>"},"id":"9cbdd4c8-05f5-4ced-b2f0-5fefa91a075f","isHidden":false,"type":"text"},{"content":{"text":"| Naam | Instelling | Plaats |\n| ----- | ------------ | ------ |\n| Busschots Ellen| UZ Leuven | Leuven |\n| Calmeyn Klaas | AZ Delta | Roeselare|\n| Claessen Hilde | Wit-Gele Kruis | Antwerpen |\n| Cappelier Paul | AZ Sint-Jan | Brugge|\n| Cortebeeck Koen | GZA Ziekenhuizen | Antwerpen |\n| de Graaf Annelies | UZ Leuven | Leuven |\n| Decavele Lieven | Het huis van verzorging | Opwijk |\n| Dekeyzere Marleen | Eerstelijnszorg | Langemark |\n| Duboccage Guy | Eerstelijnszorg | Menen |\n| Evens Sylvie| Altrio| Vlaanderen|\n| Goffin Ruud | St. Trudo Ziekenthuis | Sint-Truiden |\n| Himpe Marie-Line | AZ Groeninge | Kortrijk |\n| Lescrauwaet Lisa | Ziekenhuis Oost-Limburg | Genk |\n| Nys Magali | RZ Heilig Hart | Tienen |\n| Smet Steven | UZ Gent | Gent |\n| Spinnael Jeanine | UZ Brussel | Brussel |\n| Stijven Suzanne | Wit-Gele Kruis | Limburg |\n| Sturtewagen Bo| AZ West | Veurne|\n| Vlayen Sonja | UZ Antwerpen (pensioen) | Antwerpen |\n| Vandergheynst Nathalie | AZ Maria Middelares | Gent |\n| Van Roy Wouter | UZ Antwerpen | Antwerpen|\n| Verpaelst Nele | Wit-Gele Kruis | West-Vlaanderen |\n| Weedaege Heidi| VIVES Hogeschool | Kortrijk |\n| Weyler Danny | Ziekenhuis Netwerk Antwerpen | Antwerpen  |"},"id":"623ecbb4-ff80-4221-8d12-ebca824152a2","isHidden":false,"type":"markdown"},{"content":{"location":"kirby","image":["file://d6iHMPIp9IcYKO2o"],"src":"","alt":"","caption":"v.l.n.r. Adinda Toppets (Bestuur)- Kristel Schols (Voorzitter) - Ruud Goffin - Valerie Hanssens (ex-bestuurder)- Roald Nelissen (Penningmeester) - Jeanine Spinnael - Magali Nys - Guy Duboccage - Klaas Calmeyn - Suzanne Stijven - Leen Van Bever - Ellen Busschots - Marleen Dekeyzere - Eric Roovers (Bestuur) - Kris Bernaerts (Ondervoorzitter)- Lieven Decavele - Danny Weyler - Heidi Weedeage - Koen Cortebeeck - Lisa Lescrauwaet - Michiel Claes (Secretaris) - Marie-Line Himpe <br><br>Niet op de foto: Hilde Claessen - Annelies de Graaf - Evens Sylvie - Nathalie Vandergheynst - Nele Verpaelst - Sonja Vlayen - Paul Cappelier - Bo Sturtewagen - Wouter van Roy","link":"","ratio":"","crop":"false"},"id":"e2248af8-a6f6-4caf-8475-8197d08c825b","isHidden":false,"type":"image"}]
+
+----
+
+Marketingtitle: 
+
+----
+
+Marketingdescription: 
+
+----
+
+Marketingimage: 
+
+----
+
+Uuid: ide7WAe6dlhEwHG5

@@ -1,0 +1,29 @@
+title: Success
+
+options:
+  changeStatus: false
+  duplicate: false
+  delete: false
+
+tabs:
+
+  content:
+    label: Content
+    columns:
+
+      - width: 2/3
+        sections:
+          hero:
+            extends: sections/hero
+            fields:
+              heroGroup: false
+              heroCover: false
+              heroLabel: false
+              heroSubHeading: false
+              heroLinkText: false
+              heroLink: false
+          text:
+            extends: sections/text
+            fields:
+              textLine: false
+              textGroup: false
